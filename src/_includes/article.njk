@@ -1,6 +1,7 @@
 ---
 layout: base.njk
 ---
+{% from "icons.njk" import categoryIcon %}
 <article class="article">
   <script type="application/ld+json">
   {
@@ -21,9 +22,10 @@ layout: base.njk
   </script>
 
   <nav class="breadcrumbs">
-    <a href="/">Artículos</a> / <span>{{ category }}</span>
+    <a href="/">Artículos</a> <span class="sep">›</span> <span class="badge">{{ category }}</span>
   </nav>
 
+  <span class="icon-bubble icon-bubble-lg">{{ categoryIcon(category) }}</span>
   <h1>{{ title }}</h1>
   <p class="article-date">Actualizado: {{ date | readableDate }}</p>
 

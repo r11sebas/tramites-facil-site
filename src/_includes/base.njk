@@ -19,11 +19,13 @@
 </head>
 <body>
   <header class="site-header">
-    <a class="logo" href="/">{{ site.name }}</a>
-    <nav>
-      <a href="/">Artículos</a>
-      <a href="/sobre-nosotros/">Sobre nosotros</a>
-    </nav>
+    <div class="wrap">
+      <a class="logo" href="/"><span class="logo-mark">TF</span>{{ site.name }}</a>
+      <nav>
+        <a href="/">Artículos</a>
+        <a href="/sobre-nosotros/">Sobre nosotros</a>
+      </nav>
+    </div>
   </header>
 
   <main>
@@ -31,11 +33,13 @@
   </main>
 
   <footer class="site-footer">
-    <p>&copy; {{ currentYear }} {{ site.name }}. Contenido informativo, no constituye asesoría legal o migratoria.</p>
-    <nav>
-      <a href="/privacidad/">Privacidad</a>
-      <a href="/terminos/">Términos</a>
-    </nav>
+    <div class="wrap">
+      <p>&copy; {{ currentYear }} {{ site.name }}. Contenido informativo, no constituye asesoría legal o migratoria.</p>
+      <nav>
+        <a href="/privacidad/">Privacidad</a>
+        <a href="/terminos/">Términos</a>
+      </nav>
+    </div>
   </footer>
 </body>
 </html>
