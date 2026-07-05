@@ -1,0 +1,19 @@
+---
+layout: base.njk
+title: Guías de visas y trámites migratorios para colombianos
+description: Guías claras y actualizadas sobre visas y trámites migratorios para colombianos que quieren viajar, estudiar o trabajar en EEUU y Canadá.
+---
+<h1>Guías de trámites y visas</h1>
+<p>Explicaciones claras, basadas en fuentes oficiales, para colombianos que
+están tramitando una visa o un documento migratorio hacia Estados Unidos o
+Canadá.</p>
+
+<ul class="article-list">
+  {% for post in collections.articulos %}
+  <li>
+    <a href="{{ post.url }}">{{ post.data.title }}</a>
+    <p>{{ post.data.description }}</p>
+    <span class="category">{{ post.data.category }}</span>
+  </li>
+  {% endfor %}
+</ul>
