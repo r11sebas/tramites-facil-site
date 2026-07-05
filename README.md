@@ -14,12 +14,13 @@ npm run build    # genera el sitio estático en _site/
 
 ## Pendientes manuales (no automatizables desde el repo)
 
-- [ ] Registrar el dominio definitivo y actualizar `src/_data/site.json`
-      (`url`), `src/robots.txt` (línea `Sitemap:`) y el correo de contacto en
-      `src/sobre-nosotros.njk`.
-- [ ] Agregar el archivo `CNAME` en la raíz con el dominio elegido, y activar
-      GitHub Pages en la configuración del repo (Settings → Pages → Source:
-      GitHub Actions).
+- [x] Dominio `tramitesfacil.co` configurado en `site.json`, `robots.txt` y
+      `CNAME`.
+- [ ] En Cloudflare, apuntar `tramitesfacil.co` (DNS → CNAME `@` y `www` a
+      `r11sebas.github.io`).
+- [ ] En GitHub, Settings → Pages → Custom domain → escribir
+      `tramitesfacil.co` y guardar (espera a que verifique DNS y emita el
+      certificado HTTPS).
 - [ ] Configurar Cloudflare Web Analytics y pegar el snippet en
       `src/_includes/base.njk`.
 - [ ] Aplicar a Google AdSense cuando haya ~10-15 artículos publicados.
