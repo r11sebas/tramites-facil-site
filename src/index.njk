@@ -42,9 +42,19 @@ description: Guías claras y actualizadas sobre visas y trámites migratorios pa
   </div>
 </section>
 
+<div class="filters">
+  <input type="search" id="search-input" placeholder="Busca un tema: apostilla, DS-160, remesas..." aria-label="Buscar artículos">
+  <div class="filter-pills" role="group" aria-label="Filtrar por categoría">
+    <button type="button" class="pill active" data-filter="all">Todos</button>
+    {% for cat in collections.categories %}
+    <button type="button" class="pill" data-filter="{{ cat }}">{{ cat }}</button>
+    {% endfor %}
+  </div>
+</div>
+
 <ul class="article-list">
   {% for post in collections.articulos %}
-  <li class="article-card">
+  <li class="article-card" data-category="{{ post.data.category }}">
     <a class="article-card-link" href="{{ post.url }}">
       <span class="icon-bubble">{{ categoryIcon(post.data.category) }}</span>
       <span class="badge">{{ post.data.category }}</span>
@@ -54,3 +64,4 @@ description: Guías claras y actualizadas sobre visas y trámites migratorios pa
   </li>
   {% endfor %}
 </ul>
+<p class="no-results" hidden>No encontramos artículos con ese criterio. Prueba con otra palabra o categoría.</p>

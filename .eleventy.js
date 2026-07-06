@@ -4,6 +4,7 @@ const site = require("./src/_data/site.json");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles.css");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("src/site.js");
 
   eleventyConfig.addPlugin(sitemap, {
     sitemap: {
@@ -15,6 +16,14 @@ module.exports = function (eleventyConfig) {
     return collectionApi
       .getFilteredByGlob("src/articulos/*.md")
       .sort((a, b) => b.date - a.date);
+  });
+
+  eleventyConfig.addCollection("categories", function (collectionApi) {
+    const categories = new Set();
+    collectionApi.getFilteredByGlob("src/articulos/*.md").forEach((item) => {
+      if (item.data.category) categories.add(item.data.category);
+    });
+    return [...categories].sort();
   });
 
   eleventyConfig.addGlobalData("currentYear", () => new Date().getFullYear());
