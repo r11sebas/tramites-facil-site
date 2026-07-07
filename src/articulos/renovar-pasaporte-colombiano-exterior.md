@@ -16,13 +16,14 @@ Colombia** en el país donde te encuentres.
 Los consulados de Colombia en EEUU y Canadá (hay varios, distribuidos por
 ciudad/región) atienden trámites de pasaporte para colombianos residentes
 en su jurisdicción. El consulado que te corresponde depende de tu ciudad de
-residencia, así que lo primero es identificar cuál es tu consulado
-asignado en el sitio oficial de la Cancillería.
+residencia; puedes ver los requisitos generales en la página oficial de
+[pasaportes de la Cancillería](https://www.cancilleria.gov.co/tramites_servicios/pasaportes).
 
 ## Pasos generales
 
-1. Agenda una cita en el consulado que te corresponda (la mayoría maneja
-   citas en línea a través del sistema de la Cancillería).
+1. [Agenda una cita en línea](https://tramitesmre.cancilleria.gov.co/tramites/enlinea/agendamiento.xhtml)
+   en el consulado que te corresponda, directamente en el sistema oficial
+   de la Cancillería (el agendamiento es gratuito y sin intermediarios).
 2. Reúne los documentos que pida el consulado: normalmente el pasaporte
    anterior (vigente o vencido), y en algunos casos la cédula de
    ciudadanía colombiana vigente.

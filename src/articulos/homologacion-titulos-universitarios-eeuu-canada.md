@@ -16,7 +16,11 @@ profesión regulada.
 
 En EEUU, la evaluación la hacen agencias privadas especializadas en
 credential evaluation (evaluación de estudios extranjeros), no una entidad
-gubernamental única. El resultado suele ser un informe que compara tu
+gubernamental única. La mayoría de universidades y empleadores solo aceptan
+evaluaciones de agencias miembro de
+[NACES](https://naces.org/) (National Association of Credential Evaluation
+Services), así que conviene confirmar que la agencia que elijas esté en su
+directorio. El resultado suele ser un informe que compara tu
 título colombiano con el equivalente estadounidense (ej. "equivalente a un
 Bachelor's degree").
 
@@ -32,9 +36,9 @@ Bachelor's degree").
 ## Canadá: evaluación de credenciales (ECA)
 
 En Canadá, si vas a aplicar a programas de inmigración como **Express
-Entry**, generalmente necesitas una **Evaluación de Créditos Educativos
-(Educational Credential Assessment, ECA)**, realizada por organizaciones
-designadas por IRCC. El ECA convierte tu título colombiano a su equivalente
+Entry**, generalmente necesitas una
+[Evaluación de Créditos Educativos (ECA)](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/education-assessment.html),
+realizada por organizaciones designadas por IRCC. El ECA convierte tu título colombiano a su equivalente
 canadiense y es un requisito puntual del trámite migratorio, no
 necesariamente para trabajar.
 

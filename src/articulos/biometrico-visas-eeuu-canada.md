@@ -20,9 +20,10 @@ de los casos de visas de no inmigrante.
 
 ## Biometría para trámites de Canadá
 
-IRCC generalmente exige una **cita de biometría separada**, en un Centro de
-Solicitud de Visa (VAC) autorizado, después de enviar tu solicitud en
-línea. El sistema te notifica cuándo y dónde agendar esa cita una vez
+IRCC generalmente exige una
+[**cita de biometría separada**](https://www.canada.ca/en/immigration-refugees-citizenship/services/biometrics/how-to-give.html),
+en un Centro de Solicitud de Visa (VAC) autorizado, después de enviar tu
+solicitud en línea. El sistema te notifica cuándo y dónde agendar esa cita una vez
 recibida tu solicitud. Aplica a la mayoría de trámites: visas de
 visitante, study permits, work permits y programas de residencia
 permanente como Express Entry.

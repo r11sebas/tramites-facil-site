@@ -21,8 +21,9 @@ años) suelen incluir:
 - Haber completado un programa de estudios de cierta duración mínima en
   una institución de aprendizaje designada (DLI) elegible para PGWP — no
   todas las instituciones ni todos los programas califican, así que
-  conviene confirmarlo **antes de elegir dónde estudiar**, no después de
-  graduarte.
+  conviene confirmarlo en la
+  [lista oficial de instituciones designadas](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/prepare/designated-learning-institutions-list.html)
+  **antes de elegir dónde estudiar**, no después de graduarte.
 - Haber mantenido un study permit válido durante el programa.
 - Aplicar dentro del plazo que define IRCC después de recibir la
   confirmación de finalización de estudios.
@@ -33,10 +34,12 @@ IRCC ha hecho cambios importantes a las reglas de elegibilidad del PGWP en
 los últimos años, incluyendo restricciones según el tipo de institución o
 de programa (por ejemplo, algunos programas de colegios privados con
 licencia de un colegio público dejaron de calificar en cierto momento). Por
-eso, la recomendación más importante de este artículo es: **verifica
-directamente en el sitio oficial de IRCC si el programa específico que
-piensas estudiar califica para PGWP antes de matricularte**, no asumas que
-todos los programas de estudio dan acceso automático a este permiso.
+eso, la recomendación más importante de este artículo es: verifica
+directamente en la
+[página oficial de elegibilidad del PGWP](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/eligibility.html)
+si el programa específico que piensas estudiar califica **antes de
+matricularte**, no asumas que todos los programas de estudio dan acceso
+automático a este permiso.
 
 ## Duración del permiso
 

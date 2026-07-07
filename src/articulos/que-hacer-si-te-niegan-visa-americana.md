@@ -13,9 +13,13 @@ muchos casos se puede volver a aplicar más adelante.
 ## Entiende la base legal de la negación
 
 Las negaciones de visas de no inmigrante suelen citar una sección
-específica de la ley de inmigración de EEUU (por ejemplo, secciones
-relacionadas con no haber demostrado suficientes vínculos con el país de
-origen). El oficial consular normalmente te indica, al menos de forma
+específica de la
+[ley de inmigración de EEUU](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/visa-denials.html)
+(por ejemplo, secciones relacionadas con no haber demostrado suficientes
+vínculos con el país de origen). El Departamento de Estado explica en
+detalle las
+[causales de inelegibilidad y posibles exenciones](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/waivers.html)
+en su sitio oficial. El oficial consular normalmente te indica, al menos de forma
 general, el motivo en el momento de la entrevista o en la carta de
 negación. Ese motivo es tu punto de partida para decidir qué hacer
 después.

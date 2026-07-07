@@ -27,13 +27,15 @@ límite numérico anual; el resto de categorías sí tienen cupos anuales
 limitados por país). Esto genera que el tiempo de espera varíe
 enormemente: desde procesos relativamente rápidos para familiares
 inmediatos, hasta años de espera para categorías con cupo limitado,
-especialmente hermanos de ciudadanos. Los tiempos exactos se publican
-mensualmente en el **Boletín de Visas** del Departamento de Estado, y
-cambian con frecuencia.
+especialmente hermanos de ciudadanos. Los tiempos exactos se publican mensualmente en el
+[**Boletín de Visas**](https://travel.state.gov/content/travel/en/legal/visa-law0/visa-bulletin.html)
+del Departamento de Estado, y cambian con frecuencia.
 
 ## Proceso general
 
-1. El patrocinador presenta la petición familiar ante USCIS.
+1. El patrocinador presenta la
+   [petición familiar (Formulario I-130)](https://www.uscis.gov/i-130)
+   ante USCIS.
 2. Una vez aprobada, si la categoría tiene cupo disponible en ese momento
    (según el Boletín de Visas), el caso avanza al Centro Nacional de Visas.
 3. El familiar en Colombia completa el DS-260 (solicitud de visa de
@@ -46,7 +48,8 @@ cambian con frecuencia.
 ## Affidavit of Support
 
 El patrocinador (o un co-patrocinador, si el patrocinador no cumple el
-requisito de ingresos) debe firmar un **Affidavit of Support**,
+requisito de ingresos) debe firmar un
+[**Affidavit of Support (Formulario I-864)**](https://www.uscis.gov/i-864),
 comprometiéndose económicamente a que el familiar no dependerá de
 asistencia pública. Esto exige demostrar ingresos por encima de un umbral
 que se recalcula periódicamente según el tamaño del grupo familiar.

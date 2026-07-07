@@ -35,8 +35,9 @@ puedes iniciar la solicitud.
 
 1. Ser aceptado en una institución DLI y recibir la carta de aceptación.
 2. Reunir la prueba de fondos y los demás documentos que pida IRCC.
-3. Crear una cuenta en el portal oficial de IRCC y enviar la solicitud de
-   study permit en línea.
+3. Crear una cuenta en el
+   [portal oficial de IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/apply.html)
+   y enviar la solicitud de study permit en línea.
 4. Pagar las tarifas correspondientes (trámite, biometría) según lo indique
    el portal oficial.
 5. Dar tus datos biométricos si te lo solicitan.
@@ -52,6 +53,8 @@ conviene confirmarlas directamente en el permiso que te otorguen.
 
 ## Después de graduarte
 
-Algunos egresados pueden aplicar a un **Post-Graduation Work Permit
-(PGWP)**, sujeto a los requisitos vigentes de IRCC al momento de la
-solicitud. Es un trámite aparte del study permit.
+Algunos egresados pueden aplicar a un
+[Post-Graduation Work Permit (PGWP)](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/after-graduation/about.html),
+sujeto a los requisitos vigentes de IRCC al momento de la solicitud (ver
+nuestra guía de [PGWP](/articulos/pgwp-post-graduation-work-permit-canada/)).
+Es un trámite aparte del study permit.

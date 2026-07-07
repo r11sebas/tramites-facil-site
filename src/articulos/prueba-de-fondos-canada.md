@@ -6,7 +6,8 @@ date: 2026-07-05
 category: Visa Canadá
 keywords: prueba de fondos Canadá, solvencia económica Canadá, proof of funds
 ---
-La **prueba de fondos** (proof of funds) es la evidencia de que cuentas con
+La [**prueba de fondos**](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/documents/proof-funds.html)
+(proof of funds) es la evidencia de que cuentas con
 el dinero suficiente para cubrir tus gastos en Canadá, ya sea como
 estudiante, como visitante o dentro de un programa de inmigración como
 Express Entry. IRCC la exige para confirmar que no dependerás de asistencia

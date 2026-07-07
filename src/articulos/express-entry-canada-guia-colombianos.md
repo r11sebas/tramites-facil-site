@@ -6,9 +6,10 @@ date: 2026-07-05
 category: Visa Canadá
 keywords: Express Entry Canadá, residencia permanente Canadá, puntaje Express Entry, CRS
 ---
-**Express Entry** es el sistema que usa Canadá para gestionar las
-solicitudes de residencia permanente a través de varios programas de
-inmigración económica, principalmente:
+[**Express Entry**](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
+es el sistema que usa Canadá para gestionar las solicitudes de residencia
+permanente a través de varios programas de inmigración económica,
+principalmente:
 
 - **Federal Skilled Worker Program (FSWP)**: para trabajadores calificados
   sin oferta de empleo previa en Canadá.
@@ -35,6 +36,9 @@ inmigración económica, principalmente:
 
 ## Requisitos base para crear el perfil
 
+- [Prueba de fondos](/articulos/prueba-de-fondos-canada/) suficiente, salvo
+  que ya tengas una oferta de empleo válida o apliques bajo la Canadian
+  Experience Class.
 - Resultado vigente de un examen de idioma aprobado (inglés y/o francés).
 - Evaluación de Créditos Educativos (**ECA**) de tus títulos, si aplicas
   bajo FSWP (ver nuestra guía de

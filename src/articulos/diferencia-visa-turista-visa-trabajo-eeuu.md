@@ -22,8 +22,9 @@ serias.
 
 ## Visas de trabajo
 
-Existen varias categorías de visa de trabajo, cada una para un perfil
-distinto; algunas de las más conocidas:
+Existen varias categorías de
+[visa de trabajo temporal](https://travel.state.gov/content/travel/en/us-visas/employment/temporary-worker-visas.html),
+cada una para un perfil distinto; algunas de las más conocidas:
 
 - **H-1B**: para profesionales en ocupaciones especializadas, generalmente
   requiere patrocinio de un empleador estadounidense y está sujeta a un

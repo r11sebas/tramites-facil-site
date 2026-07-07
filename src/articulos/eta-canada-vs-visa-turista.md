@@ -12,9 +12,9 @@ depende de tu situación específica, no de elección personal.
 
 ## Qué es la eTA
 
-La eTA es una autorización electrónica, vinculada a tu pasaporte, que
-permite **entrar a Canadá por vía aérea** sin necesidad de una visa
-completa. Aplica principalmente a viajeros de países que Canadá considera
+La [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html)
+es una autorización electrónica, vinculada a tu pasaporte, que permite
+**entrar a Canadá por vía aérea** sin necesidad de una visa completa. Aplica principalmente a viajeros de países que Canadá considera
 exentos de visa, o a personas que ya tienen o han tenido una visa
 canadiense reciente en ciertas condiciones.
 
@@ -33,9 +33,10 @@ nacionalidad y situación migratoria, si calificas para eTA o si necesitas
 tramitar la TRV completa**. Como ciudadano colombiano, en la mayoría de los
 casos corresponde tramitar la visa de visitante (TRV), no la eTA — pero
 esto puede variar si ya tienes o has tenido cierto historial migratorio con
-Canadá o EEUU. La forma correcta de confirmarlo es usando la herramienta
-oficial de IRCC que pregunta tu nacionalidad y el propósito del viaje, y te
-indica cuál trámite aplica a tu caso.
+Canadá o EEUU. La forma correcta de confirmarlo es usando la
+[herramienta oficial de IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/check-visa-eta.html)
+que pregunta tu nacionalidad y el propósito del viaje, y te indica cuál
+trámite aplica a tu caso.
 
 ## Por qué importa no equivocarse
 

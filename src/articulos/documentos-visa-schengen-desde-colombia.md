@@ -30,7 +30,10 @@ donde pases más noches, si visitas varios países Schengen).
 
 ## Dónde se solicita
 
-Cada país Schengen gestiona su propio proceso de citas y, en muchos casos,
+Puedes revisar la
+[política de visados de la Comisión Europea](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en)
+para entender el marco general. Cada país Schengen gestiona su propio
+proceso de citas y, en muchos casos,
 delega la recepción de documentos en un centro de visados externo. El
 consulado correspondiente a tu destino principal indica en su sitio
 oficial el procedimiento vigente, los formularios exactos y los medios de

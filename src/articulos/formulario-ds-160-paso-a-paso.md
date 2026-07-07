@@ -10,8 +10,10 @@ El formulario **DS-160** es la solicitud electrónica que exige el Departamento
 de Estado de EEUU para casi todas las visas de no inmigrante (turismo,
 negocios, estudio, trabajo temporal, entre otras). Se completa en línea, en
 inglés o español, directamente en el sitio oficial del Departamento de
-Estado — **ceac.state.gov** — y no tiene costo por sí mismo (el costo
-corresponde a la tarifa de solicitud de visa, que se paga por separado).
+Estado — [ceac.state.gov](https://ceac.state.gov/genniv/) — y no tiene costo
+por sí mismo (el costo corresponde a la
+[tarifa de solicitud de visa](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html),
+que se paga por separado).
 
 ## Antes de empezar
 

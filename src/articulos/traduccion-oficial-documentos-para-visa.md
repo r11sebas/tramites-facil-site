@@ -25,8 +25,11 @@ Los términos varían según el país receptor:
   profesional de traducción reconocida) o, si no es posible, que vaya
   acompañada de un affidavit del traductor.
 - Para uso **dentro de Colombia** frente a autoridades colombianas, en
-  cambio, sí se exige traductor oficial autorizado por el Ministerio de
-  Relaciones Exteriores.
+  cambio, sí se exige un traductor oficial. Desde 2018 la Cancillería ya no
+  acredita traductores directamente: la certificación la otorgan el
+  Ministerio de Justicia, la Universidad Nacional o la Universidad de
+  Antioquia. Puedes ver el detalle actualizado en la página de la
+  [Cancillería sobre traducciones oficiales](https://www.cancilleria.gov.co/tt_ss/traducciones-oficiales).
 
 Como el requisito exacto depende de la entidad que recibe el documento,
 siempre conviene confirmar directamente con ella (universidad, IRCC,

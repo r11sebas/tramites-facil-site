@@ -16,14 +16,17 @@ documento.
 
 - **Certificado de antecedentes judiciales de la Policía Nacional**: el más
   solicitado para trámites migratorios, disponible en línea de forma
-  gratuita en el sitio oficial de la Policía Nacional.
+  gratuita en el
+  [portal oficial de consulta de la Policía Nacional](https://antecedentes.policia.gov.co:7005/WebJudicial/).
 - **Certificado de antecedentes de la Procuraduría General de la Nación**:
   relacionado con sanciones disciplinarias, no siempre exigido para
-  trámites migratorios, pero algunos procesos lo piden.
-- **Certificado de antecedentes de la Contraloría General**: relacionado
-  con manejo de recursos públicos, tampoco es el más común en visas, pero
-  puede aplicar según el perfil del solicitante (ej. exfuncionarios
-  públicos).
+  trámites migratorios, pero algunos procesos lo piden. Se consulta en su
+  [portal oficial de antecedentes](https://www.procuraduria.gov.co/Pages/consulta-de-antecedentes.aspx).
+- **Certificado de antecedentes fiscales de la Contraloría General**:
+  relacionado con manejo de recursos públicos, tampoco es el más común en
+  visas, pero puede aplicar según el perfil del solicitante (ej.
+  exfuncionarios públicos). Se genera en el
+  [portal oficial de la Contraloría](https://cfiscal.contraloria.gov.co/certificados/certificadopersonanatural.aspx).
 
 Cuál certificado exacto te van a pedir depende de la entidad migratoria
 (USCIS, IRCC, el consulado correspondiente) y del tipo de trámite, así que

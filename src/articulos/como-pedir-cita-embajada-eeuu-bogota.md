@@ -14,9 +14,11 @@ tipo de trámite vigente).
 
 ## Dónde se agenda
 
-La cita se agenda a través del sitio oficial de citas para visas de EEUU en
-Colombia (el portal vigente lo indica la propia embajada de EEUU en su
-sitio web oficial, ya que la plataforma puede cambiar con el tiempo). No se
+La cita se agenda a través del
+[sitio oficial de citas para visas de EEUU en Colombia](https://ais.usvisa-info.com/en-co/niv),
+gestionado por el Departamento de Estado. También puedes verificar toda la
+información vigente directamente en el sitio de la
+[Embajada de EEUU en Colombia](https://co.usembassy.gov/visas/). No se
 agenda por teléfono ni por terceros no oficiales.
 
 ## Pasos generales

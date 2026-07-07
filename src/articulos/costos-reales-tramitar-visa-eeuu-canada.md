@@ -16,8 +16,10 @@ correspondiente al momento de tramitar.
 ## Rubros que suelen aparecer
 
 1. **Tarifa de solicitud de visa**: el pago obligatorio ante el gobierno de
-   EEUU o Canadá (o el consulado del país Schengen, si aplica). Varía según
-   el tipo de visa.
+   EEUU ([tabla de tarifas oficiales](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html))
+   o Canadá ([tarifas oficiales de IRCC](https://ircc.canada.ca/english/information/fees/fees.asp))
+   (o el consulado del país Schengen, si aplica). Varía según el tipo de
+   visa.
 2. **Tarifa de biometría**: en varios trámites de Canadá, además de la
    tarifa principal se paga una tarifa separada por la toma de datos
    biométricos.

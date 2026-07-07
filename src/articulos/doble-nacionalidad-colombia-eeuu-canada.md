@@ -16,6 +16,8 @@ voluntaria (algo poco común y que requiere un trámite específico).
 - **Colombia**: permite la doble nacionalidad sin restricciones para
   quienes adquieren otra nacionalidad por naturalización, sin necesidad de
   ningún trámite adicional para "mantenerla" — simplemente se conserva.
+  Puedes ver el detalle oficial en la página de
+  [nacionalidad de la Cancillería](https://www.cancilleria.gov.co/nacionalidad).
 - **Estados Unidos**: también permite la doble nacionalidad de forma
   general; naturalizarte como ciudadano estadounidense no te exige
   renunciar a la nacionalidad colombiana ante las autoridades de EEUU.

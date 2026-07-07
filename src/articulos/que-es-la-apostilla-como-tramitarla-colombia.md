@@ -28,12 +28,14 @@ así que conviene confirmar el requisito exacto antes de iniciar el proceso.
 ## Cómo se tramita en Colombia
 
 En Colombia, la apostilla la expide el **Ministerio de Relaciones
-Exteriores (Cancillería)**, a través de su plataforma de trámites en línea.
+Exteriores (Cancillería)**, a través de su
+[plataforma oficial de apostilla y legalización en línea](https://www.cancilleria.gov.co/apostilla-y-legalizacion).
 En términos generales el proceso es:
 
 1. Verificar que el documento sea válido para apostillar (debe ser un
    documento público o notarial reconocido).
-2. Registrar el trámite en la plataforma oficial de la Cancillería.
+2. [Registrar el trámite en línea](https://tramites.cancilleria.gov.co/apostillalegalizacion/solicitud/inicio.aspx)
+   directamente en el sitio de la Cancillería.
 3. Pagar la tarifa vigente (se confirma en el sitio oficial, ya que puede
    cambiar).
 4. Recoger el documento apostillado o solicitarlo con envío, según la

@@ -29,8 +29,8 @@ empleador esté en EEUU.
   contrata legalmente desde Colombia mientras prestas servicios a la
   empresa de EEUU.
 - **Cómo declaras impuestos**: como residente fiscal colombiano, en
-  principio debes declarar esos ingresos en Colombia según la normativa de
-  la DIAN vigente. Dependiendo del tipo de contrato y el monto, puede
+  principio debes declarar esos ingresos en Colombia según la normativa
+  vigente de la [DIAN](https://www.dian.gov.co/). Dependiendo del tipo de contrato y el monto, puede
   aplicar retención en la fuente o tratamiento como ingreso de trabajo
   independiente. Te recomendamos confirmar tu caso específico con un
   contador, ya que la clasificación tributaria correcta depende de varios

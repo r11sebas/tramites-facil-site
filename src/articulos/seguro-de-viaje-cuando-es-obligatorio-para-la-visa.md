@@ -11,10 +11,11 @@ pero en varios casos es obligatorio o altamente recomendable presentarlo.
 
 ## Cuándo es obligatorio
 
-- **Visa Schengen (Europa)**: es un requisito explícito. Debe cubrir un
-  monto mínimo de gastos médicos de emergencia (el monto lo define la
-  normativa Schengen vigente) y ser válido para todo el territorio Schengen
-  durante toda la estadía.
+- **Visa Schengen (Europa)**: es un requisito explícito según la
+  [política de visados de la Comisión Europea](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en).
+  Debe cubrir un monto mínimo de gastos médicos de emergencia (el monto lo
+  define la normativa Schengen vigente) y ser válido para todo el
+  territorio Schengen durante toda la estadía.
 - **Algunos programas de estudio o trabajo temporal**: ciertas instituciones
   o países exigen seguro médico como condición para expedir el permiso,
   aunque no sea parte del trámite consular en sí.

@@ -16,9 +16,9 @@ Es la visa de no inmigrante más solicitada por colombianos.
   visa.
 - Formulario **DS-160** completado (ver nuestra
   [guía paso a paso](/articulos/formulario-ds-160-paso-a-paso/)).
-- Pago de la tarifa de solicitud de visa (el monto vigente se confirma en el
-  sitio oficial de la embajada de EEUU en Bogotá, ya que se actualiza
-  periódicamente).
+- Pago de la
+  [tarifa de solicitud de visa](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html)
+  (el monto vigente se confirma ahí, ya que se actualiza periódicamente).
 - Foto reciente que cumpla las especificaciones oficiales.
 - Cita para la entrevista consular (salvo exenciones puntuales que apliquen
   según tu caso).
@@ -33,7 +33,9 @@ No hay una lista fija ni obligatoria, pero conviene llevar evidencia de:
 - **Motivo del viaje**: itinerario tentativo, carta de invitación, reserva de
   hotel, según el caso.
 
-El oficial consular decide en la entrevista, generalmente en pocos minutos,
+Puedes consultar todos los requisitos actualizados en el sitio oficial de la
+[Embajada de EEUU en Colombia](https://co.usembassy.gov/visas/). El oficial
+consular decide en la entrevista, generalmente en pocos minutos,
 si aprueba o niega la visa; no todos los documentos que llevas se revisan
 necesariamente.
 

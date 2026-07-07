@@ -14,14 +14,19 @@ casarse dentro de los 90 días siguientes a su llegada.
 ## Quién puede pedirla
 
 - El ciudadano estadounidense es quien **inicia el trámite** (peticionario),
-  presentando el formulario correspondiente ante USCIS a favor de su
-  prometido(a) colombiano(a).
+  presentando el
+  [formulario I-129F](https://www.uscis.gov/i-129f) ante USCIS a favor de
+  su prometido(a) colombiano(a).
 - La pareja debe demostrar que la relación es real (no solo para fines
   migratorios) y que existe intención genuina de matrimonio.
 - Requisito clásico: haberse conocido en persona al menos una vez dentro de
   los dos años anteriores a la petición, salvo excepciones puntuales que
   reconoce USCIS (por ejemplo, razones religiosas o culturales que impiden
   el encuentro previo).
+
+Puedes ver el detalle oficial completo en la página del Departamento de
+Estado sobre la
+[visa de prometido(a) K-1](https://travel.state.gov/content/travel/en/us-visas/immigrate/family-immigration/nonimmigrant-visa-for-a-fiance-k-1.html).
 
 ## Proceso general
 
