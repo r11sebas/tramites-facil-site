@@ -1,0 +1,11 @@
+{% from "icons.njk" import categoryIcon %}
+{% macro card(post) %}
+<li class="article-card" style="--cat-color: {{ post.data.category | categoryColor }}">
+  <a class="article-card-link" href="{{ post.url }}">
+    <span class="icon-bubble">{{ categoryIcon(post.data.category) }}</span>
+    <span class="badge">{{ post.data.category }}</span>
+    <h2>{{ post.data.title }}</h2>
+    <p>{{ post.data.description }}</p>
+  </a>
+</li>
+{% endmacro %}

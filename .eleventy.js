@@ -1,5 +1,6 @@
 const sitemap = require("@quasibit/eleventy-plugin-sitemap");
 const site = require("./src/_data/site.json");
+const categories = require("./src/_data/categories.json");
 
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles.css");
@@ -18,15 +19,17 @@ module.exports = function (eleventyConfig) {
       .sort((a, b) => b.date - a.date);
   });
 
-  eleventyConfig.addCollection("categories", function (collectionApi) {
-    const categories = new Set();
-    collectionApi.getFilteredByGlob("src/articulos/*.md").forEach((item) => {
-      if (item.data.category) categories.add(item.data.category);
-    });
-    return [...categories].sort();
+  eleventyConfig.addGlobalData("currentYear", () => new Date().getFullYear());
+
+  eleventyConfig.addFilter("categorySlug", (name) => {
+    const cat = categories.find((c) => c.name === name);
+    return cat ? cat.slug : "";
   });
 
-  eleventyConfig.addGlobalData("currentYear", () => new Date().getFullYear());
+  eleventyConfig.addFilter("categoryColor", (name) => {
+    const cat = categories.find((c) => c.name === name);
+    return cat ? cat.color : "#1f5fbf";
+  });
 
   eleventyConfig.addFilter("readableDate", (dateObj) => {
     return new Date(dateObj).toLocaleDateString("es-CO", {

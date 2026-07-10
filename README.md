@@ -21,12 +21,48 @@ npm run build    # genera el sitio estático en _site/
 - [ ] En GitHub, Settings → Pages → Custom domain → escribir
       `tramitesfacil.co` y guardar (espera a que verifique DNS y emita el
       certificado HTTPS).
-- [ ] Configurar Cloudflare Web Analytics y pegar el snippet en
-      `src/_includes/base.njk`.
-- [ ] Aplicar a Google AdSense cuando haya ~10-15 artículos publicados.
-- [ ] Registrarse en programas de afiliados (iVisa, Wise, SafetyWing/World
-      Nomads, servicios de traducción certificada) y añadir los enlaces en
-      los artículos relevantes.
+- [ ] Configurar Cloudflare Web Analytics (Analytics → Web Analytics → Add
+      a site) y reemplazar el comentario placeholder al final de
+      `src/_includes/base.njk` por el snippet real con el token.
+- [x] Aplicado a Google AdSense (en revisión, script de verificación
+      insertado).
+- [x] Wise aprobado y con link de afiliado activo en el artículo de
+      remesas.
+- [ ] iVisa y Rapid Translate: aplicaciones enviadas, pendientes de
+      aprobación. Cuando lleguen los links, agregarlos a los artículos de
+      visas (iVisa) y traducción oficial (Rapid Translate).
+- [ ] SafetyWing / World Nomads: pendiente a propósito, aplicar más
+      adelante cuando el sitio tenga más tráfico/autoridad (seguros de
+      viaje piden más confianza).
+
+## Roadmap de contenido
+
+No tenemos acceso a herramientas de volumen de búsqueda real (Keyword
+Planner, Ahrefs, etc.), así que estos temas están priorizados por huecos
+lógicos de intención de búsqueda dentro de cada categoría existente, no por
+datos de volumen. La fuente de datos real más confiable, una vez haya
+tráfico, es el reporte **Consultas** de Google Search Console (ya conectado
+vía sitemap) — cuando haya suficiente data ahí, conviene revisar este
+roadmap contra las búsquedas reales que ya traen gente al sitio.
+
+Próximos temas propuestos, agrupados por categoría (para que cada página de
+`/categoria/<slug>/` crezca de forma pareja):
+
+- **Visa Canadá**: Work permit para cónyuges/pareja de estudiantes,
+  Provincial Nominee Program (PNP) explicado, examen médico para
+  inmigración a Canadá.
+- **Visa Europa**: Visa Schengen de negocios vs turismo, qué hacer si
+  Schengen te la niega, cómo elegir seguro de viaje Schengen que cumpla el
+  mínimo exigido.
+- **Trámites**: cómo autenticar un poder notarial para uso en el exterior,
+  registro civil de nacimiento desde el exterior, homologación de licencia
+  de conducir en EEUU/Canadá.
+- **Remesas**: cómo declarar remesas recibidas ante la DIAN, remesas vs
+  giros (diferencias legales en Colombia).
+- **Trabajo remoto**: facturación electrónica para freelancers que cobran
+  en dólares, seguridad social (EPS/pensión) para independientes remotos.
+- **Visa EEUU**: renovación de visa sin entrevista (Interview Waiver),
+  visa de estudiante F-1 (panorama general), ESTA vs visa de turista.
 
 ## Agregar un artículo nuevo
 
@@ -38,9 +74,15 @@ layout: article.njk
 title: Título del artículo
 description: Descripción para SEO (150-160 caracteres aprox.)
 date: 2026-07-05
-category: Visa EEUU | Visa Canadá | Trámites
+category: Visa EEUU
 keywords: palabra clave 1, palabra clave 2
 ---
 ```
+
+El valor de `category` debe coincidir **exactamente** con uno de los
+`name` definidos en `src/_data/categories.json` (Visa EEUU, Visa Canadá,
+Visa Europa, Trámites, Remesas, Trabajo remoto) — de ahí sale el color, el
+ícono y a qué página `/categoria/<slug>/` queda enlazado el artículo. Si
+agregas una categoría nueva, primero añádela a ese archivo.
 
 El artículo aparece automáticamente en la home y en el sitemap al hacer build.

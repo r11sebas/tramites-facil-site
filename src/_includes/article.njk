@@ -22,11 +22,12 @@ layout: base.njk
   </script>
 
   <nav class="breadcrumbs">
-    <a href="/">Artículos</a> <span class="sep">›</span> <span class="badge">{{ category }}</span>
+    <a href="/">Artículos</a> <span class="sep">›</span>
+    <a class="badge" href="/categoria/{{ category | categorySlug }}/" style="--cat-color: {{ category | categoryColor }}">{{ category }}</a>
   </nav>
 
-  <span class="icon-bubble icon-bubble-lg">{{ categoryIcon(category) }}</span>
-  <h1>{{ title }}</h1>
+  <span class="icon-bubble icon-bubble-lg" style="--cat-color: {{ category | categoryColor }}">{{ categoryIcon(category) }}</span>
+  <h1 style="--cat-color: {{ category | categoryColor }}">{{ title }}</h1>
   <p class="article-date">Actualizado: {{ date | readableDate }}</p>
 
   <div class="toc-placeholder"></div>

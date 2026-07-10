@@ -1,0 +1,37 @@
+---
+layout: base.njk
+pagination:
+  data: categories
+  size: 1
+  alias: cat
+permalink: "/categoria/{{ cat.slug }}/"
+eleventyComputed:
+  title: "Guía completa: {{ cat.name }} para colombianos"
+  description: "{{ cat.description }}"
+---
+{% from "article-card.njk" import card %}
+<section class="hero category-hero" style="--cat-color: {{ cat.color }}">
+  <div class="hero-text">
+    <span class="badge">{{ cat.name }}</span>
+    <h1>Guía completa: {{ cat.name }} para colombianos</h1>
+    <p>{{ cat.description }}</p>
+  </div>
+</section>
+
+<p>
+  Reunimos aquí todas nuestras guías sobre {{ cat.name | lower }}, basadas en
+  fuentes oficiales y pensadas para colombianos que están tramitando su
+  proceso paso a paso. Si es la primera vez que visitas esta categoría, te
+  recomendamos empezar por el artículo que mejor describa dónde estás en tu
+  proceso ahora mismo.
+</p>
+
+<ul class="article-list">
+  {% for post in collections.articulos %}
+    {% if post.data.category == cat.name %}
+      {{ card(post) }}
+    {% endif %}
+  {% endfor %}
+</ul>
+
+<p><a href="/">← Ver todas las categorías</a></p>

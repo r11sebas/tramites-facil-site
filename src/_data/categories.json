@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Visa EEUU",
+    "slug": "visa-eeuu",
+    "color": "#1f5fbf",
+    "description": "Guías sobre visas de turismo, trabajo, novio(a) y familia hacia Estados Unidos para colombianos."
+  },
+  {
+    "name": "Visa Canadá",
+    "slug": "visa-canada",
+    "color": "#e5484d",
+    "description": "Guías sobre study permit, Express Entry, eTA y trámites migratorios hacia Canadá para colombianos."
+  },
+  {
+    "name": "Visa Europa",
+    "slug": "visa-europa",
+    "color": "#6851d6",
+    "description": "Guías sobre la visa Schengen y requisitos de viaje a Europa para colombianos."
+  },
+  {
+    "name": "Trámites",
+    "slug": "tramites",
+    "color": "#0f9b8e",
+    "description": "Apostilla, traducción oficial, antecedentes, pasaporte y otros trámites que acompañan un proceso migratorio."
+  },
+  {
+    "name": "Remesas",
+    "slug": "remesas",
+    "color": "#2f9e44",
+    "description": "Cómo comparar y elegir la mejor forma de enviar dinero a Colombia desde el exterior."
+  },
+  {
+    "name": "Trabajo remoto",
+    "slug": "trabajo-remoto",
+    "color": "#e8590c",
+    "description": "Cómo trabajar remoto desde Colombia para empresas del exterior sin complicaciones migratorias o fiscales."
+  }
+]

@@ -13,25 +13,19 @@
       .replace(/\s+/g, "-");
   }
 
-  function setupFilters() {
+  function setupSearch() {
     var searchInput = document.getElementById("search-input");
-    var pills = document.querySelectorAll(".pill");
     var cards = document.querySelectorAll(".article-card");
     var noResults = document.querySelector(".no-results");
-    if (!cards.length) return;
+    if (!searchInput || !cards.length) return;
 
-    var activeCategory = "all";
-
-    function applyFilters() {
-      var query = searchInput ? normalize(searchInput.value.trim()) : "";
+    searchInput.addEventListener("input", function () {
+      var query = normalize(searchInput.value.trim());
       var visibleCount = 0;
 
       cards.forEach(function (card) {
-        var category = card.getAttribute("data-category");
         var text = normalize(card.textContent);
-        var matchesCategory = activeCategory === "all" || category === activeCategory;
-        var matchesSearch = query === "" || text.indexOf(query) !== -1;
-        var show = matchesCategory && matchesSearch;
+        var show = query === "" || text.indexOf(query) !== -1;
         card.hidden = !show;
         if (show) visibleCount++;
       });
@@ -39,22 +33,7 @@
       if (noResults) {
         noResults.hidden = visibleCount !== 0;
       }
-    }
-
-    pills.forEach(function (pill) {
-      pill.addEventListener("click", function () {
-        pills.forEach(function (p) {
-          p.classList.remove("active");
-        });
-        pill.classList.add("active");
-        activeCategory = pill.getAttribute("data-filter");
-        applyFilters();
-      });
     });
-
-    if (searchInput) {
-      searchInput.addEventListener("input", applyFilters);
-    }
   }
 
   function setupToc() {
@@ -102,7 +81,7 @@
   }
 
   document.addEventListener("DOMContentLoaded", function () {
-    setupFilters();
+    setupSearch();
     setupToc();
   });
 })();

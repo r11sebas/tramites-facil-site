@@ -3,7 +3,7 @@ layout: base.njk
 title: Guías de visas y trámites migratorios para colombianos
 description: Guías claras y actualizadas sobre visas y trámites migratorios para colombianos que quieren viajar, estudiar o trabajar en EEUU y Canadá.
 ---
-{% from "icons.njk" import categoryIcon %}
+{% from "article-card.njk" import card %}
 <section class="hero">
   <div class="hero-text">
     <h1>Guías de trámites y visas</h1>
@@ -42,26 +42,30 @@ description: Guías claras y actualizadas sobre visas y trámites migratorios pa
   </div>
 </section>
 
+<div class="stats-strip">
+  <div class="stat-chip" style="--chip-color: #1f5fbf">
+    <strong>{{ collections.articulos.length }}</strong> guías publicadas
+  </div>
+  <div class="stat-chip" style="--chip-color: #2f9e44">
+    <strong>{{ categories.length }}</strong> categorías
+  </div>
+  <div class="stat-chip" style="--chip-color: #e8590c">
+    Fuentes <strong>oficiales</strong> verificadas
+  </div>
+</div>
+
 <div class="filters">
   <input type="search" id="search-input" placeholder="Busca un tema: apostilla, DS-160, remesas..." aria-label="Buscar artículos">
-  <div class="filter-pills" role="group" aria-label="Filtrar por categoría">
-    <button type="button" class="pill active" data-filter="all">Todos</button>
-    {% for cat in collections.categories %}
-    <button type="button" class="pill" data-filter="{{ cat }}">{{ cat }}</button>
+  <div class="filter-pills" role="group" aria-label="Categorías">
+    {% for cat in categories %}
+    <a class="pill" href="/categoria/{{ cat.slug }}/" style="--cat-color: {{ cat.color }}">{{ cat.name }}</a>
     {% endfor %}
   </div>
 </div>
 
 <ul class="article-list">
   {% for post in collections.articulos %}
-  <li class="article-card" data-category="{{ post.data.category }}">
-    <a class="article-card-link" href="{{ post.url }}">
-      <span class="icon-bubble">{{ categoryIcon(post.data.category) }}</span>
-      <span class="badge">{{ post.data.category }}</span>
-      <h2>{{ post.data.title }}</h2>
-      <p>{{ post.data.description }}</p>
-    </a>
-  </li>
+    {{ card(post) }}
   {% endfor %}
 </ul>
-<p class="no-results" hidden>No encontramos artículos con ese criterio. Prueba con otra palabra o categoría.</p>
+<p class="no-results" hidden>No encontramos artículos con ese criterio. Prueba con otra palabra.</p>
