@@ -31,8 +31,11 @@ que cobran, sino por la tasa de cambio que aplican.
 
 ## Plataformas más usadas para EEUU/Canadá → Colombia
 
-Entre las opciones más conocidas están **Wise**, **Western Union** y
-**Remitly**, cada una con distintas combinaciones de velocidad, comisión y
+Entre las opciones más conocidas están
+[**Wise**](https://wise.prf.hn/click/camref:1100l5Pdm7)
+(enlace de referido: si abres una cuenta desde aquí, puede generarnos una
+comisión sin costo extra para ti), **Western Union** y **Remitly**, cada
+una con distintas combinaciones de velocidad, comisión y
 tasa de cambio según el monto, el país de origen y el método de pago que
 uses. No hay una "mejor" única: la conveniencia depende de si priorizas
 velocidad, mejor tasa de cambio, o un punto físico de retiro para quien
@@ -56,4 +59,5 @@ destinatario, no solo la comisión anunciada.
 Si envías dinero de forma recurrente (por ejemplo, para tu familia cada
 mes), vale la pena revisar la comparación cada cierto tiempo: las tasas y
 promociones cambian, y la plataforma más conveniente hace unos meses no
-siempre lo sigue siendo.
+siempre lo sigue siendo. Si quieres probar con Wise, puedes
+[crear tu cuenta aquí](https://wise.prf.hn/click/camref:1100l5Pdm7).
