@@ -5,6 +5,7 @@ const categories = require("./src/_data/categories.json");
 module.exports = function (eleventyConfig) {
   eleventyConfig.addPassthroughCopy("src/styles.css");
   eleventyConfig.addPassthroughCopy("src/robots.txt");
+  eleventyConfig.addPassthroughCopy("src/ads.txt");
   eleventyConfig.addPassthroughCopy("src/site.js");
   eleventyConfig.addPassthroughCopy("src/favicon.svg");
   eleventyConfig.addPassthroughCopy("src/favicon-32.png");
