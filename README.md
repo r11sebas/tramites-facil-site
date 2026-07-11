@@ -16,14 +16,11 @@ npm run build    # genera el sitio estático en _site/
 
 - [x] Dominio `tramitesfacil.co` configurado en `site.json`, `robots.txt` y
       `CNAME`.
-- [ ] En Cloudflare, apuntar `tramitesfacil.co` (DNS → CNAME `@` y `www` a
-      `r11sebas.github.io`).
-- [ ] En GitHub, Settings → Pages → Custom domain → escribir
-      `tramitesfacil.co` y guardar (espera a que verifique DNS y emita el
-      certificado HTTPS).
-- [ ] Configurar Cloudflare Web Analytics (Analytics → Web Analytics → Add
-      a site) y reemplazar el comentario placeholder al final de
-      `src/_includes/base.njk` por el snippet real con el token.
+- [x] Cloudflare apuntando `tramitesfacil.co` a `r11sebas.github.io`, y
+      dominio custom activo en GitHub Pages con HTTPS.
+- [x] Cloudflare Web Analytics activado en modo automático (Cloudflare lo
+      detectó como zona propia y lo activa a nivel de red — no requiere
+      ningún snippet ni cambio de código en el repo).
 - [x] Aplicado a Google AdSense (en revisión, script de verificación
       insertado).
 - [x] Wise aprobado y con link de afiliado activo en el artículo de
