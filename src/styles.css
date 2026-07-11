@@ -441,6 +441,25 @@ a.badge:hover {
   margin-top: 0.25rem;
 }
 
+.share-whatsapp {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.4rem;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  background: #25d366;
+  color: #fff;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
+
+.share-whatsapp:hover {
+  background: #1fb855;
+  color: #fff;
+  text-decoration: none;
+}
+
 .related-articles {
   margin-top: 3rem;
 }
