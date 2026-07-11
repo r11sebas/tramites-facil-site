@@ -48,6 +48,10 @@ module.exports = function (eleventyConfig) {
     return new Date(dateObj).toISOString().slice(0, 10);
   });
 
+  eleventyConfig.addFilter("rssDate", (dateObj) => {
+    return new Date(dateObj).toUTCString();
+  });
+
   eleventyConfig.addFilter("relatedArticles", (articles, category, currentUrl, limit) => {
     return articles
       .filter((a) => a.data.category === category && a.url !== currentUrl)
