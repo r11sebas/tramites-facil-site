@@ -56,7 +56,10 @@ layout: base.njk
 
   <span class="icon-bubble icon-bubble-lg" style="--cat-color: {{ category | categoryColor }}">{{ categoryIcon(category) }}</span>
   <h1 style="--cat-color: {{ category | categoryColor }}">{{ title }}</h1>
-  <p class="article-date">Actualizado: {{ date | readableDate }}</p>
+  <p class="article-date">
+    Actualizado: {{ date | readableDate }} · Por el
+    <a href="/sobre-nosotros/">equipo editorial de {{ site.name }}</a>
+  </p>
 
   <div class="toc-placeholder"></div>
 

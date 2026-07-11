@@ -19,7 +19,7 @@
     var noResults = document.querySelector(".no-results");
     if (!searchInput || !cards.length) return;
 
-    searchInput.addEventListener("input", function () {
+    function applyFilter() {
       var query = normalize(searchInput.value.trim());
       var visibleCount = 0;
 
@@ -33,7 +33,17 @@
       if (noResults) {
         noResults.hidden = visibleCount !== 0;
       }
-    });
+    }
+
+    searchInput.addEventListener("input", applyFilter);
+
+    var params = new URLSearchParams(window.location.search);
+    var q = params.get("q");
+    if (q) {
+      searchInput.value = q;
+      applyFilter();
+      searchInput.scrollIntoView({ block: "center" });
+    }
   }
 
   function setupToc() {
