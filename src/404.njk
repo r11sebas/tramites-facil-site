@@ -1,0 +1,22 @@
+---
+layout: base.njk
+title: Página no encontrada
+description: La página que buscas no existe o cambió de dirección.
+permalink: /404.html
+eleventyExcludeFromCollections: true
+---
+<section class="hero">
+  <div class="hero-text">
+    <h1>No encontramos esta página</h1>
+    <p>El enlace puede estar roto o la página cambió de dirección. Prueba
+    desde el inicio o explora alguna de nuestras categorías.</p>
+  </div>
+</section>
+
+<div class="filter-pills" role="group" aria-label="Categorías">
+  {% for cat in categories %}
+  <a class="pill" href="/categoria/{{ cat.slug }}/" style="--cat-color: {{ cat.color }}">{{ cat.name }}</a>
+  {% endfor %}
+</div>
+
+<p style="margin-top: 2rem;"><a href="/">← Volver al inicio</a></p>
