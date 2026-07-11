@@ -1,3 +1,5 @@
+import { runDailyStats } from "./dailyStats.js";
+
 const ALLOWED_ORIGIN = "https://tramitesfacil.co";
 
 function corsHeaders(origin) {
@@ -72,5 +74,9 @@ export default {
     }
 
     return new Response("Method not allowed", { status: 405, headers: corsHeaders(origin) });
+  },
+
+  async scheduled(event, env, ctx) {
+    ctx.waitUntil(runDailyStats(env));
   },
 };
