@@ -21,8 +21,21 @@ npm run build    # genera el sitio estático en _site/
 - [x] Cloudflare Web Analytics activado en modo automático (Cloudflare lo
       detectó como zona propia y lo activa a nivel de red — no requiere
       ningún snippet ni cambio de código en el repo).
-- [x] Aplicado a Google AdSense (en revisión, script de verificación
-      insertado).
+- [x] Aplicado a Google AdSense. Estado "Preparando" con "No se encuentra"
+      en el dashboard → agregado `ads.txt` en la raíz del sitio (causa más
+      común de ese estado). Toca esperar a que Google lo vuelva a rastrear.
+- [ ] Cuando el estado en AdSense pase a **"Listo"/aprobado**: entra a
+      Ads → Overview → **Auto ads**, y actívalo con el interruptor. Es la
+      vía más rápida para empezar a mostrar anuncios — no requiere ningún
+      cambio de código, porque ya está el script de verificación instalado
+      en `src/_includes/base.njk`. Google decide automáticamente dónde
+      poner los anuncios en cada página.
+- [ ] Opcional, más adelante: crear **unidades de anuncio manuales** (Ads →
+      By ad unit) para tener más control sobre dónde aparecen — suelen dar
+      mejor rendimiento que Auto Ads pero requieren más configuración.
+      Cuando tengas los IDs de unidad, dime y los inserto en las plantillas
+      (por ejemplo, dentro del artículo y antes de "También te puede
+      interesar").
 - [x] Wise aprobado y con link de afiliado activo en el artículo de
       remesas.
 - [ ] iVisa y Rapid Translate: aplicaciones enviadas, pendientes de
