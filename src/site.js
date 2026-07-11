@@ -90,8 +90,55 @@
     placeholder.appendChild(nav);
   }
 
+  var VOTE_ENDPOINT = "https://tramitesfacil-votes.r11jsebas.workers.dev/api/vote";
+
+  function setupHelpfulWidget() {
+    var widget = document.querySelector(".helpful-widget");
+    if (!widget) return;
+
+    var slug = widget.getAttribute("data-slug");
+    var buttonsWrap = widget.querySelector(".helpful-buttons");
+    var thanks = widget.querySelector(".helpful-thanks");
+    var buttons = widget.querySelectorAll(".helpful-btn");
+    var storageKey = "helpful-voted-" + slug;
+
+    var alreadyVoted = false;
+    try {
+      alreadyVoted = window.localStorage && !!localStorage.getItem(storageKey);
+    } catch (e) {}
+
+    if (alreadyVoted) {
+      buttonsWrap.hidden = true;
+      thanks.hidden = false;
+      return;
+    }
+
+    buttons.forEach(function (btn) {
+      btn.addEventListener("click", function () {
+        var helpful = btn.getAttribute("data-vote") === "yes";
+        buttons.forEach(function (b) {
+          b.disabled = true;
+        });
+
+        fetch(VOTE_ENDPOINT, {
+          method: "POST",
+          headers: { "Content-Type": "application/json" },
+          body: JSON.stringify({ slug: slug, helpful: helpful }),
+        }).catch(function () {});
+
+        try {
+          if (window.localStorage) localStorage.setItem(storageKey, "1");
+        } catch (e) {}
+
+        buttonsWrap.hidden = true;
+        thanks.hidden = false;
+      });
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     setupSearch();
     setupToc();
+    setupHelpfulWidget();
   });
 })();

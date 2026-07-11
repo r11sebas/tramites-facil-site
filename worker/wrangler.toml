@@ -1,0 +1,8 @@
+name = "tramitesfacil-votes"
+main = "src/index.js"
+compatibility_date = "2024-01-01"
+workers_dev = true
+
+[[kv_namespaces]]
+binding = "VOTES"
+id = "197c614849ee4ee7b86c618882c0a6c5"

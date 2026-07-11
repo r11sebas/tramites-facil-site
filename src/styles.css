@@ -450,6 +450,58 @@ a.badge:hover {
   margin-bottom: 1rem;
 }
 
+.helpful-widget {
+  margin-top: 3rem;
+  padding: 1.25rem;
+  text-align: center;
+  background: var(--color-surface);
+  border: 1px solid var(--color-border);
+  border-radius: var(--radius);
+}
+
+.helpful-question {
+  margin: 0 0 0.75rem;
+  font-weight: 600;
+}
+
+.helpful-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 0.75rem;
+}
+
+.helpful-buttons[hidden] {
+  display: none;
+}
+
+.helpful-btn {
+  font: inherit;
+  font-size: 0.9rem;
+  font-weight: 600;
+  cursor: pointer;
+  padding: 0.5rem 1.1rem;
+  border: 1px solid var(--color-border);
+  border-radius: 999px;
+  background: var(--color-surface);
+  color: var(--color-text);
+  transition: border-color 0.15s ease, background 0.15s ease;
+}
+
+.helpful-btn:hover:not(:disabled) {
+  border-color: var(--color-accent);
+  background: var(--color-accent-soft);
+}
+
+.helpful-btn:disabled {
+  opacity: 0.6;
+  cursor: default;
+}
+
+.helpful-thanks {
+  margin: 0;
+  color: var(--color-muted);
+}
+
 .disclaimer {
   margin-top: 2.75rem;
   padding: 1rem 1.15rem;

@@ -67,6 +67,15 @@ layout: base.njk
     {{ content | safe }}
   </div>
 
+  <div class="helpful-widget" data-slug="{{ page.fileSlug }}">
+    <p class="helpful-question">¿Te sirvió esta guía?</p>
+    <div class="helpful-buttons">
+      <button type="button" class="helpful-btn" data-vote="yes">👍 Sí</button>
+      <button type="button" class="helpful-btn" data-vote="no">👎 No</button>
+    </div>
+    <p class="helpful-thanks" hidden>¡Gracias por tu opinión!</p>
+  </div>
+
   <p class="disclaimer">
     Este contenido es informativo y no constituye asesoría legal ni migratoria.
     Verifica siempre los requisitos y montos vigentes en las fuentes oficiales citadas
