@@ -447,6 +447,10 @@ a.badge:hover {
   margin-top: 0.25rem;
 }
 
+.article-date a {
+  text-decoration: underline;
+}
+
 .share-whatsapp {
   display: inline-flex;
   align-items: center;
