@@ -150,6 +150,12 @@ h1 {
   color: var(--color-text);
 }
 
+.article-body a {
+  text-decoration: underline;
+  text-decoration-color: color-mix(in srgb, var(--color-accent) 45%, transparent);
+  text-underline-offset: 0.15em;
+}
+
 .article-body ul,
 .article-body ol {
   padding-left: 1.3rem;
