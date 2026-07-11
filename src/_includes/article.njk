@@ -2,6 +2,7 @@
 layout: base.njk
 ---
 {% from "icons.njk" import categoryIcon %}
+{% from "article-card.njk" import card %}
 <article class="article">
   <script type="application/ld+json">
   {
@@ -41,4 +42,16 @@ layout: base.njk
     Verifica siempre los requisitos y montos vigentes en las fuentes oficiales citadas
     (USCIS, IRCC, Cancillería de Colombia o Migración Colombia) antes de tomar decisiones.
   </p>
+
+  {% set related = collections.articulos | relatedArticles(category, page.url, 3) %}
+  {% if related.length %}
+  <section class="related-articles">
+    <h2>También te puede interesar</h2>
+    <ul class="article-list">
+      {% for post in related %}
+        {{ card(post) }}
+      {% endfor %}
+    </ul>
+  </section>
+  {% endif %}
 </article>

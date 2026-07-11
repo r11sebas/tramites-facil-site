@@ -43,6 +43,12 @@ module.exports = function (eleventyConfig) {
     return new Date(dateObj).toISOString().slice(0, 10);
   });
 
+  eleventyConfig.addFilter("relatedArticles", (articles, category, currentUrl, limit) => {
+    return articles
+      .filter((a) => a.data.category === category && a.url !== currentUrl)
+      .slice(0, limit || 3);
+  });
+
   return {
     dir: {
       input: "src",
