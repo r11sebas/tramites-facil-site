@@ -5,6 +5,8 @@ description: Qué documentos y pasos necesitas para solicitar la visa de turista
 date: 2026-07-05
 category: Visa EEUU
 keywords: visa turista EEUU, visa B1 B2, requisitos visa americana Colombia
+featured: true
+readTime: "8 min"
 ---
 La visa de turista hacia Estados Unidos se conoce oficialmente como **visa
 B1/B2** y permite viajar por turismo (B2) o por negocios de corto plazo (B1).

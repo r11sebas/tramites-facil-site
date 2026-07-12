@@ -58,6 +58,10 @@ module.exports = function (eleventyConfig) {
       .slice(0, limit || 3);
   });
 
+  eleventyConfig.addFilter("featuredArticles", (articles, limit) => {
+    return articles.filter((a) => a.data.featured === true).slice(0, limit || 4);
+  });
+
   return {
     dir: {
       input: "src",

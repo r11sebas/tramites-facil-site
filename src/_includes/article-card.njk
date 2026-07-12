@@ -3,7 +3,10 @@
 <li class="article-card" style="--cat-color: {{ post.data.category | categoryColor }}">
   <a class="article-card-link" href="{{ post.url }}">
     <span class="icon-bubble">{{ categoryIcon(post.data.category) }}</span>
-    <span class="badge">{{ post.data.category }}</span>
+    <div class="card-badges">
+      <span class="badge">{{ post.data.category }}</span>
+      {% if post.data.readTime %}<span class="read-time">⏱ {{ post.data.readTime }}</span>{% endif %}
+    </div>
     <h2>{{ post.data.title }}</h2>
     <p>{{ post.data.description }}</p>
   </a>

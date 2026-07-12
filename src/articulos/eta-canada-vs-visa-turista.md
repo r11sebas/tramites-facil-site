@@ -5,6 +5,8 @@ description: Diferencia entre la Autorización Electrónica de Viaje (eTA) y la 
 date: 2026-07-05
 category: Visa Canadá
 keywords: eTA Canadá, visa turista Canadá, autorización electrónica de viaje
+featured: true
+readTime: "6 min"
 ---
 Muchas personas confunden la **eTA** (Electronic Travel Authorization) con
 una visa de turista, pero son trámites distintos, y cuál te corresponde

@@ -4,12 +4,13 @@ title: Guías de visas y trámites migratorios para colombianos
 description: Guías claras y actualizadas sobre visas y trámites migratorios para colombianos que quieren viajar, estudiar o trabajar en EEUU y Canadá.
 ---
 {% from "article-card.njk" import card %}
+
 <section class="hero">
   <div class="hero-text">
-    <h1>Guías de trámites y visas</h1>
-    <p>Explicaciones claras, basadas en fuentes oficiales, para colombianos que
-    están tramitando una visa o un documento migratorio hacia Estados Unidos o
-    Canadá.</p>
+    <p class="hero-eyebrow">Información migratoria para colombianos</p>
+    <h1>Tu visa, explicada sin rodeos</h1>
+    <p>Guías paso a paso, basadas en fuentes oficiales, para colombianos que tramitan visa de turista, estudio o trabajo hacia EEUU, Canadá y Europa.</p>
+    <a class="hero-cta" href="#todas-las-guias">Explorar todas las guías ↓</a>
   </div>
   <div class="hero-art" aria-hidden="true">
     <svg viewBox="0 0 240 200" xmlns="http://www.w3.org/2000/svg">
@@ -42,6 +43,17 @@ description: Guías claras y actualizadas sobre visas y trámites migratorios pa
   </div>
 </section>
 
+<div class="trust-bar" aria-label="Fuentes oficiales">
+  <span class="trust-bar-label">Basado en fuentes oficiales</span>
+  <div class="trust-sources">
+    <span>🇺🇸 Embajada EE.UU.</span>
+    <span>🍁 IRCC Canadá</span>
+    <span>🇨🇴 Cancillería Colombia</span>
+    <span>🇪🇺 Portal Schengen</span>
+    <span>📋 DIAN</span>
+  </div>
+</div>
+
 <div class="stats-strip">
   <div class="stat-chip" style="--chip-color: #1f5fbf">
     <strong>{{ collections.articulos.length }}</strong> guías publicadas
@@ -54,7 +66,50 @@ description: Guías claras y actualizadas sobre visas y trámites migratorios pa
   </div>
 </div>
 
-<div class="filters">
+{% set featuredPosts = collections.articulos | featuredArticles(4) %}
+{% if featuredPosts | length > 0 %}
+<section class="featured-section">
+  <h2 class="section-heading">Guías más consultadas</h2>
+  <ul class="featured-grid">
+    {% for post in featuredPosts %}
+    <li class="featured-card" style="--cat-color: {{ post.data.category | categoryColor }}">
+      <a class="featured-card-link" href="{{ post.url }}">
+        <div class="featured-card-meta">
+          <span class="badge">{{ post.data.category }}</span>
+          {% if post.data.readTime %}<span class="read-time">⏱ {{ post.data.readTime }}</span>{% endif %}
+        </div>
+        <h3>{{ post.data.title }}</h3>
+        <p>{{ post.data.description }}</p>
+        <span class="read-more-link">Leer guía completa →</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
+{% endif %}
+
+<section class="trust-pillars">
+  <h2 class="section-heading section-heading--centered">¿Por qué confiar en nuestras guías?</h2>
+  <div class="pillars-grid">
+    <div class="pillar">
+      <div class="pillar-icon" aria-hidden="true">📑</div>
+      <h3>Fuentes oficiales</h3>
+      <p>Cada guía cita directamente las páginas de la Embajada de EE.UU., IRCC, Cancillería y organismos europeos.</p>
+    </div>
+    <div class="pillar">
+      <div class="pillar-icon" aria-hidden="true">🔄</div>
+      <h3>Siempre actualizado</h3>
+      <p>Revisamos los requisitos con cada cambio de política migratoria para que no viajes con información desactualizada.</p>
+    </div>
+    <div class="pillar">
+      <div class="pillar-icon" aria-hidden="true">🇨🇴</div>
+      <h3>Hecho para colombianos</h3>
+      <p>No traducimos guías genéricas. Todo está adaptado a los documentos, costos y trámites desde Colombia.</p>
+    </div>
+  </div>
+</section>
+
+<div class="filters" id="todas-las-guias">
   <input type="search" id="search-input" placeholder="Busca un tema: apostilla, DS-160, remesas..." aria-label="Buscar artículos">
   <div class="filter-pills" role="group" aria-label="Categorías">
     {% for cat in categories %}
@@ -63,6 +118,7 @@ description: Guías claras y actualizadas sobre visas y trámites migratorios pa
   </div>
 </div>
 
+<h2 class="section-heading section-heading--articles">Todas las guías</h2>
 <ul class="article-list">
   {% for post in collections.articulos %}
     {{ card(post) }}

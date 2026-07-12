@@ -5,6 +5,8 @@ description: Qué es el sistema Express Entry de Canadá, cómo funciona el punt
 date: 2026-07-05
 category: Visa Canadá
 keywords: Express Entry Canadá, residencia permanente Canadá, puntaje Express Entry, CRS
+featured: true
+readTime: "12 min"
 ---
 [**Express Entry**](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry.html)
 es el sistema que usa Canadá para gestionar las solicitudes de residencia

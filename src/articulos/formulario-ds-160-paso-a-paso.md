@@ -5,6 +5,8 @@ description: Guía práctica para completar el formulario DS-160, requisito obli
 date: 2026-07-05
 category: Visa EEUU
 keywords: DS-160, visa americana, formulario visa EEUU, solicitud visa no inmigrante
+featured: true
+readTime: "10 min"
 ---
 El formulario **DS-160** es la solicitud electrónica que exige el Departamento
 de Estado de EEUU para casi todas las visas de no inmigrante (turismo,
