@@ -11,19 +11,34 @@ fuera un ingreso laboral tuyo, pero eso no significa que quede
 completamente por fuera del radar de la DIAN — depende de los montos y de
 cómo se canalice el dinero.
 
-## Remesas familiares vs. ingresos propios
+## Remesas familiares vs. ingresos propios (y por qué importa quién te la envía)
 
-Es importante diferenciar dos situaciones que a veces se confunden:
+Es importante diferenciar situaciones que a veces se confunden — y aquí el
+detalle que más se pasa por alto es que el tratamiento **no es el mismo
+para cualquier remitente**:
 
-- **Remesas familiares** (un familiar en el exterior te envía dinero para
-  sostenimiento): generalmente se tratan como un ingreso no constitutivo
+- **Remesas de familiares en línea directa** (padres, hijos, cónyuge) para
+  tu sostenimiento: generalmente se tratan como un ingreso no constitutivo
   de renta para quien las recibe, pero sí pueden generar obligaciones de
   reporte según el monto acumulado en el año.
+- **Dinero de otros remitentes** (hermanos, tíos, otros familiares no en
+  línea directa, o personas sin parentesco): este caso es distinto y no
+  siempre goza del mismo tratamiento favorable — puede entrar en la
+  categoría de **donación**, sujeta al régimen de **ganancia ocasional**,
+  con reglas y montos exentos propios. No asumas que "es familia" alcanza
+  para el tratamiento más favorable si no es línea directa — confirma tu
+  caso específico con un contador.
 - **Ingresos propios que recibes del exterior** (por ejemplo, pago por
   trabajo remoto o freelance): esto sí es un ingreso gravable que debes
   declarar como tal — ver nuestra guía sobre
   [trabajar remoto desde Colombia para empresas de EEUU](/articulos/trabajar-remoto-colombia-empresas-eeuu/)
   si es tu caso.
+
+**Contexto 2026:** la DIAN ahora recibe reporte automático de las
+consignaciones que llegan del exterior, lo que ha llevado a que millones
+de colombianos que reciben remesas de forma regular deban revisar por
+primera vez si están obligados a declarar renta — no asumas que porque
+"siempre ha sido así y nunca declaré" tu situación sigue igual este año.
 
 ## Control cambiario, no solo tributario
 

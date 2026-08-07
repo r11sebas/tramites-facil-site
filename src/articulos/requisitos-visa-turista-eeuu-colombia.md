@@ -20,9 +20,11 @@ difícil) es que la aprueben.
   visa.
 - Formulario **DS-160** completado (ver nuestra
   [guía paso a paso con costos y tiempos](/articulos/formulario-ds-160-paso-a-paso/)).
-- Pago de la tarifa MRV (US$185 para B1/B2 en 2026 — ver el desglose
-  completo en nuestra
-  [guía de costos reales](/articulos/costos-reales-tramitar-visa-eeuu-canada/)).
+- Pago de la tarifa MRV (US$185 para B1/B2 en 2026). Ten en cuenta también
+  la nueva "Visa Integrity Fee" de US$250 que se cobra al emitir la visa
+  (no todos los consulados la están aplicando activamente todavía) — ver
+  el desglose completo con ambas tarifas en nuestra
+  [guía de costos reales](/articulos/costos-reales-tramitar-visa-eeuu-canada/).
 - Foto reciente que cumpla las especificaciones oficiales.
 - Cita para la entrevista consular (salvo exenciones puntuales que apliquen
   según tu caso, como ciertas renovaciones).

@@ -8,8 +8,16 @@ keywords: seguro de viaje Schengen, seguro médico visa Europa, requisitos segur
 featured: true
 readTime: "8 min"
 ---
-El seguro de viaje para la visa Schengen no es un trámite opcional ni un
-formalismo menor: es un requisito explícito según la
+**Aclaración importante primero**: si vas a Europa por turismo o negocios
+de hasta 90 días, Colombia está exenta de visa Schengen desde 2015 — no
+hay ninguna "solicitud" que puedan rechazarte por el seguro, porque no
+tramitas visa (ver [cuándo sí necesitas visa](/articulos/documentos-visa-schengen-desde-colombia/)).
+Dicho eso, el seguro con este monto mínimo sigue siendo muy recomendable
+igual: un oficial de frontera puede pedírtelo al entrar, y sobre todo te
+protege de verdad ante una emergencia médica real en Europa, que puede
+costar mucho más que la póliza. Si tu caso sí requiere una visa de larga
+duración (más de 90 días, trabajo o estudio), ahí el seguro sí es un
+requisito explícito del trámite consular según la
 [política de visados de la Comisión Europea](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en),
 y un seguro que no cumple las condiciones exactas puede hacer que rechacen
 tu solicitud incluso si el resto de tu documentación está perfecta.
@@ -75,10 +83,11 @@ póliza o con la aseguradora:
   consular — algunos consulados sí lo piden físicamente, aunque lo hayas
   subido en línea.
 
-## Relación con la negación de la visa
+## Relación con la negación de la visa (solo si tramitaste una)
 
-Un seguro que no cumple el mínimo exigido es una de las causales comunes
-de negación (ver nuestra guía sobre
+Si tu caso fue de los que sí requieren visa de larga duración, un seguro
+que no cumple el mínimo exigido es una de las causales comunes de negación
+(ver nuestra guía sobre
 [qué hacer si te niegan la visa Schengen](/articulos/que-hacer-si-schengen-te-niega-visa/)),
 así que vale la pena invertir un poco más de tiempo comparando pólizas
 antes de comprar la más barata sin verificar que cumple los requisitos.

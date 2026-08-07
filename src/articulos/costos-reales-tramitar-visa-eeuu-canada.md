@@ -20,9 +20,9 @@ referencia sólida, no como el valor exacto del día en que tramites.
 
 | Destino | Tarifa | Notas |
 |---|---|---|
-| EEUU (B1/B2 turismo/negocios) | **US$185** | [Tarifas oficiales del Departamento de Estado](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html) |
+| EEUU (B1/B2 turismo/negocios) | **US$185** + **US$250** de "Visa Integrity Fee" = **~US$435 total** | La tarifa MRV son US$185 ([tarifas oficiales del Departamento de Estado](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html)). Desde la ley aprobada en julio de 2025 se suma una tarifa adicional de US$250 ("Visa Integrity Fee"), cobrada al momento de emitir la visa (no al aplicar) — a mediados de 2026 algunos consulados aún no la estaban cobrando de forma activa, así que confirma el estado vigente antes de presupuestar solo los US$185. |
 | Canadá (Temporary Resident Visa) | **CAD $100** + CAD $85 de biometría = **CAD $185 total** | Biometría de familia tiene tope de CAD $170. [Tarifas oficiales de IRCC](https://ircc.canada.ca/english/information/fees/fees.asp) |
-| Schengen (turismo/negocios) | **€90** + ~€25-45 del centro de trámites (VFS, TLScontact, BLS) = **~€110-135 total** | La cita para entregar documentos es gratis; el cobro extra es del centro tercerizado, no de la embajada |
+| Schengen (turismo/negocios, solo si tu caso requiere visa) | **€90** + ~€25-45 del centro de trámites (VFS, TLScontact, BLS) = **~€110-135 total** | Recuerda que la mayoría de colombianos que viajan por turismo/negocios de hasta 90 días **no necesitan tramitar visa** (ver [cuándo sí aplica](/articulos/documentos-visa-schengen-desde-colombia/)) — esta tarifa solo aplica a estadías largas, trabajo o estudio. La cita para entregar documentos es gratis; el cobro extra es del centro tercerizado, no de la embajada. |
 
 Ninguna de estas tarifas es reembolsable si te niegan la visa — es el costo
 de procesar la solicitud, no de aprobarla.
@@ -49,10 +49,14 @@ Si tu trámite requiere validar un título universitario colombiano en el
 extranjero (frecuente en procesos de migración a Canadá vía Express Entry):
 
 - **WES (World Education Services)**, la agencia más usada para Canadá:
-  evaluación documento por documento ~US$100, evaluación curso por curso
-  ~US$220, y la evaluación específica para inmigración (ECA) cuesta
-  **CAD $264**. El envío internacional de resultados adicional ronda los
-  US$85.
+  evaluación documento por documento ~US$118, evaluación curso por curso
+  entre ~US$168 y US$214 según el nivel de detalle, y la evaluación
+  específica para inmigración (ECA) cuesta **CAD $264**. El envío estándar
+  de resultados (reporte digital) cuesta unos US$14 adicionales; si
+  necesitas que WES reciba tus documentos originales por courier
+  internacional en vez de electrónicamente, ese envío físico puede costar
+  bastante más — confirma el desglose exacto en wes.org antes de pagar,
+  porque WES ajusta sus tarifas con cierta frecuencia.
 
 Este rubro se paga aparte de la tarifa de visa y suele sorprender a quienes
 no lo presupuestan desde el inicio.
@@ -88,17 +92,21 @@ de soporte:
 | Rubro | Costo aproximado |
 |---|---|
 | Tarifa MRV (DS-160) | US$185 (~COP $594.000 a la TRM de referencia de julio 2026, ~$3.210/USD) |
+| Visa Integrity Fee (si tu consulado ya la está cobrando) | US$250 (~COP $802.000 a la misma TRM) |
 | Apostilla (1 documento) | COP $37.800 |
 | Traducción oficial (1 documento) | COP $45.000 |
 | Fotos y fotocopias | COP $20.000 |
 | Transporte al centro de citas | COP $30.000 |
-| **Total aproximado** | **~COP $727.000** |
+| **Total aproximado (sin Integrity Fee)** | **~COP $727.000** |
+| **Total aproximado (con Integrity Fee)** | **~COP $1.529.000** |
 
 La TRM cambia todos los días — el monto en pesos de la tarifa en dólares va
 a variar según el día en que pagues, así que usa esta tabla como referencia
 de estructura, no como el número exacto que vas a pagar. El monto también
 sube si necesitas apostillar/traducir más de un documento, o si tu caso
-requiere evaluación de credenciales o seguro de viaje.
+requiere evaluación de credenciales o seguro de viaje. Confirma
+directamente con tu consulado si ya está cobrando la Visa Integrity Fee de
+US$250 antes de presupuestar solo la tarifa MRV.
 
 ## Por qué conviene presupuestar con margen
 

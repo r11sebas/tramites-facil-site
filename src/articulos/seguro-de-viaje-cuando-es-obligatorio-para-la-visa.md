@@ -11,11 +11,17 @@ pero en varios casos es obligatorio o altamente recomendable presentarlo.
 
 ## Cuándo es obligatorio
 
-- **Visa Schengen (Europa)**: es un requisito explícito según la
-  [política de visados de la Comisión Europea](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en).
-  Debe cubrir un monto mínimo de gastos médicos de emergencia (el monto lo
-  define la normativa Schengen vigente) y ser válido para todo el
-  territorio Schengen durante toda la estadía.
+- **Visa Schengen (Europa), solo si tu caso requiere visa**: la mayoría de
+  colombianos que viajan por turismo o negocios de hasta 90 días **no
+  tramitan ninguna visa** (Colombia está exenta desde 2015 — ver
+  [cuándo sí necesitas visa](/articulos/documentos-visa-schengen-desde-colombia/)),
+  así que para ese caso el seguro no es un requisito de trámite, aunque sí
+  se recomienda llevarlo porque un oficial de frontera puede pedirlo. Si tu
+  caso es de estadía larga, trabajo o estudio (donde sí aplica una visa
+  nacional de larga duración), el seguro es un requisito explícito según la
+  [política de visados de la Comisión Europea](https://home-affairs.ec.europa.eu/policies/schengen/visa-policy/applying-schengen-visa_en) —
+  debe cubrir un monto mínimo de gastos médicos de emergencia y ser válido
+  para todo el territorio Schengen durante toda la estadía.
 - **Algunos programas de estudio o trabajo temporal**: ciertas instituciones
   o países exigen seguro médico como condición para expedir el permiso,
   aunque no sea parte del trámite consular en sí.

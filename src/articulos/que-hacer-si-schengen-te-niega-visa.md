@@ -6,6 +6,16 @@ date: 2026-07-10
 category: Visa Europa
 keywords: visa Schengen negada, apelar visa Schengen, visa Europa rechazada
 ---
+**Antes de leer esto, confirma que de verdad aplicaste a una visa**: desde
+2015 Colombia está exenta de visa Schengen para turismo o negocios de
+hasta 90 días — si tu viaje era de ese tipo, lo que tuviste (si te negaron
+la entrada) fue un rechazo de **CBP/migración en frontera**, no una
+negación de visa, y el proceso es distinto (ver nuestra guía de
+[documentos y cuándo sí necesitas visa](/articulos/documentos-visa-schengen-desde-colombia/)).
+Esta guía aplica a quienes solicitaron una **visa nacional de larga
+duración** (estadías de más de 90 días, trabajo o estudio) y recibieron
+una negación formal del consulado.
+
 A diferencia de la visa americana, cuando te niegan una visa Schengen el
 consulado está obligado a entregarte una **notificación por escrito con
 el motivo específico** de la negación, citando una o varias causales

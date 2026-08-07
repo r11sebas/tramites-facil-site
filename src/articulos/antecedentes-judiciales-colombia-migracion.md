@@ -1,7 +1,7 @@
 ---
 layout: article.njk
-title: Antecedentes judiciales en Colombia para migración (guía 2026 con vigencia exacta)
-description: Qué certificados de antecedentes piden EEUU y Canadá para trámites migratorios, cómo tramitarlos gratis en línea en Colombia, y cuánto tiempo son válidos exactamente.
+title: Antecedentes judiciales en Colombia para migración (guía 2026 con criterios reales de vigencia)
+description: Qué certificados de antecedentes piden EEUU y Canadá para trámites migratorios, cómo tramitarlos gratis en línea en Colombia, y qué tan reciente lo exigen realmente (el certificado no tiene vencimiento propio).
 date: 2026-07-05
 category: Trámites
 keywords: antecedentes judiciales Colombia, certificado antecedentes migración, antecedentes penales visa, certificado judicial Colombia vigencia
@@ -39,25 +39,36 @@ conviene confirmar la lista exacta antes de empezar a tramitarlos.
 
 ## Cuánto tiempo es válido realmente (aquí está la confusión)
 
-Hay **dos vigencias distintas** que no se deben mezclar:
+Este es un punto donde vale la pena ser precisos: el certificado
+colombiano **no tiene una vigencia oficial fija** — la Policía Nacional no
+le pone fecha de vencimiento al documento en sí, porque refleja tu
+situación judicial en tiempo real al momento de generarlo. No existe
+entonces un "vence a los 12 meses" impreso ni establecido por la entidad
+que lo emite.
 
-- **Vigencia oficial del certificado colombiano**: el documento en sí es
-  válido por **12 meses** desde que lo generas.
-- **Vigencia que exige la entidad receptora**: para trámites de visa de
-  inmigrante o residencia ante EEUU, el Departamento de Estado considera
-  el certificado válido hasta **2 años** desde su emisión, pero exige que
-  haya sido **emitido dentro de los 12 meses previos a tu entrevista** de
-  visa (salvo que sigas viviendo en el país donde lo emitiste, caso en el
-  que se acepta uno de cualquier fecha dentro de tu residencia continua).
-  Muchos consulados y embajadas, en la práctica, piden algo más reciente
-  aún — con frecuencia **3 a 6 meses** de antigüedad.
+Lo que sí existe es un criterio de vigencia que define **quien te lo pide**,
+no quien lo emite:
+
+- Para trámites de visa de inmigrante o residencia ante EEUU, el
+  Departamento de Estado considera el certificado aceptable hasta **2
+  años** desde su emisión, pero exige que haya sido **emitido dentro de
+  los 12 meses previos a tu entrevista** de visa (salvo que sigas viviendo
+  en el país donde lo emitiste, caso en el que se acepta uno de cualquier
+  fecha dentro de tu residencia continua).
+- Muchos consulados y embajadas, en la práctica, piden algo más reciente
+  aún — con frecuencia **3 a 6 meses** de antigüedad, a discreción del
+  funcionario o del trámite específico.
+- Un empleador, universidad u otra entidad puede pedir un criterio
+  totalmente distinto — siempre confirma directamente con quien te lo
+  exige, en vez de asumir un plazo genérico.
 
 **La regla práctica:** genera el certificado lo más cerca posible de la
 fecha en que realmente lo vas a presentar (entrevista, radicación de
 solicitud), no apenas empiezas el proceso completo — si tu trámite se
 demora varios meses entre que reúnes documentos y la entrevista, el
-certificado puede vencerse según el criterio del consulado antes de que lo
-uses.
+certificado puede quedar "vencido" según el criterio de quien lo recibe,
+aunque el documento en sí nunca haya tenido una fecha de vencimiento
+propia.
 
 ## Quién necesita este certificado
 
@@ -103,8 +114,9 @@ abogado de inmigración antes de aplicar.
 ## Errores comunes
 
 - **Generar el certificado demasiado pronto.** Si tu proceso completo dura
-  varios meses, el certificado puede quedar vencido para el estándar del
-  consulado (3-6 meses) aunque su vigencia oficial sea de 12.
+  varios meses, el certificado puede quedar "vencido" para el estándar del
+  consulado (3-6 meses), aunque el documento en sí no tenga fecha de
+  vencimiento propia.
 - **Asumir que un solo certificado colombiano cubre todo.** Si viviste en
   otro país 6+ meses después de los 16 años, probablemente necesitas su
   certificado equivalente también.
@@ -138,9 +150,10 @@ exige a menores.
 
 - [ ] Identificaste cuál(es) de los tres certificados exige tu trámite
       específico.
-- [ ] Generaste el certificado con una antigüedad que cumpla el estándar
-      del consulado (usualmente 3-6 meses, no solo los 12 meses de
-      vigencia oficial).
+- [ ] Generaste el certificado con una antigüedad que cumpla el estándar de
+      quien te lo pide (consulado, empleador) — usualmente 3-6 meses, no
+      un plazo genérico, porque el documento en sí no tiene vencimiento
+      propio.
 - [ ] Revisaste si viviste en otro país 6+ meses desde los 16 años, y si
       necesitas su certificado equivalente.
 - [ ] Confirmaste si necesitas apostilla y/o traducción antes de

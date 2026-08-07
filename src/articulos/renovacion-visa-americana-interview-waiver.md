@@ -21,8 +21,10 @@ entrevista aplica, en general, casi exclusivamente a quienes están
 los **12 meses siguientes** al vencimiento de la visa anterior, siempre que
 esa visa anterior se haya emitido con vigencia completa y el solicitante
 tuviera al menos 18 años al momento de esa emisión. Las exenciones amplias
-por edad (menores de 14, mayores de 79) y para otras categorías de visa que
-existían antes se redujeron considerablemente.
+por edad que existían antes (menores de 14, mayores de 79) **se eliminaron**
+para solicitantes que aplican por primera vez — incluso los mayores de 79
+en renovación deben cumplir hoy los mismos criterios (12 meses, vigencia
+completa, 18+) que cualquier otro solicitante, no una excepción automática.
 
 Puedes revisar el detalle oficial y actualizado directamente en
 [travel.state.gov, sección de noticias de visas](https://travel.state.gov/content/travel/en/News/visas-news/interview-waiver-update-sept-18-2025.html).

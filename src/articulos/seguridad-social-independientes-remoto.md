@@ -24,8 +24,14 @@ quien te paga esté en otro país.
 - **EPS** (salud): eliges la entidad promotora de salud que prefieras.
 - **Fondo de pensiones**: público (Colpensiones) o privado (AFP), según tu
   elección.
-- **ARL** (riesgos laborales): obligatoria en varios tipos de contrato de
-  prestación de servicios, dependiendo del riesgo de la actividad.
+- **ARL** (riesgos laborales): **obligatoria** para prácticamente todo
+  contrato de prestación de servicios personales de más de un mes de
+  duración, sin importar el nivel de riesgo de la actividad (Decreto 723
+  de 2013) — el nivel de riesgo de tu actividad determina la **tarifa**
+  que pagas, no si estás obligado a afiliarte o no. Solo es voluntaria
+  para independientes que trabajan por cuenta propia (sin contrato de
+  prestación de servicios) y cuya actividad no esté clasificada como alto
+  riesgo (niveles IV o V).
 - **Caja de compensación familiar**: opcional para independientes.
 
 ## Cómo se calcula el aporte

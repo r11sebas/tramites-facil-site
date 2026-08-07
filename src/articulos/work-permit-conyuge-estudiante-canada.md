@@ -22,6 +22,12 @@ doctorado, además de algunas otras categorías específicas. Ya no aplica de
 forma automática para cónyuges de estudiantes en programas de pregrado o
 maestrías cortas.
 
+**Actualización de marzo de 2026**: IRCC restringió aún más la elegibilidad
+— si tu pareja está en su **último período académico** del programa, ya
+**no califica** para que tú apliques a este permiso, ni siquiera en una
+renovación. Antes de aplicar, confirma en qué punto del programa está tu
+pareja, no solo si el programa en sí califica por su duración.
+
 Por eso, antes de asumir que calificas, revisa el detalle actualizado en la
 página oficial de IRCC:
 [Help your spouse or common-law partner work in Canada](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/work/help-your-spouse-common-law-partner-work-canada.html).

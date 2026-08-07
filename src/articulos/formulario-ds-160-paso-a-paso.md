@@ -27,8 +27,12 @@ Reservar 60-90 minutos sin interrupciones. El sistema tiene un límite de
 inactividad (20 minutos) y si se agota, pierdes lo que no hayas guardado.
 Antes de abrir el formulario, ten listo:
 
-- **Pasaporte vigente** con al menos 6 meses de validez desde la fecha de
-  viaje planeada.
+- **Pasaporte vigente.** Para colombianos, la regla de "6 meses de validez
+  extra" que aplica a otros países **no aplica** — Colombia está en la
+  lista "Six-Month Club" de EEUU, así que tu pasaporte solo necesita cubrir
+  la duración real de tu estadía, no 6 meses adicionales. Igual conviene
+  que no esté por vencer pronto, para no complicarte con una renovación a
+  mitad de trámite.
 - **Itinerario de viaje** si ya lo tienes, o fechas tentativas realistas
   (no es obligatorio tener tiquetes comprados).
 - **Historial de viajes internacionales** de los últimos 5 años: países
@@ -103,17 +107,28 @@ en 2026. El pago se hace en pesos colombianos al tipo de cambio del día, es
 aunque te nieguen la visa. Verifica siempre el monto exacto del día en el
 sitio oficial de la embajada, porque puede ajustarse.
 
+**Tarifa adicional a tener en cuenta:** desde una ley aprobada en julio de
+2025 existe una **"Visa Integrity Fee" de US$250**, que se cobra al
+momento de emitir la visa (no al pagar la MRV), y que aplica a casi todas
+las categorías de no inmigrante, incluyendo B1/B2. A mediados de 2026 no
+todos los consulados la estaban cobrando activamente todavía — confirma en
+[travel.state.gov](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html)
+si ya aplica en tu caso antes de asumir que el costo total es solo los
+US$185.
+
 ## Cuánto tiempo toma el proceso completo
 
 Aquí es donde más se subestima el trámite: llenar el DS-160 toma 60-90
-minutos, pero **la espera para la cita de entrevista en Bogotá ha estado
-alrededor de 700 días** (cerca de dos años) según los
+minutos, pero la espera para la cita de entrevista en Bogotá también hay
+que planearla con tiempo. Este dato ha sido muy volátil: llegó a estar
+alrededor de 700 días (cerca de dos años) en el pico de atraso post-2023,
+y en fuentes más recientes de 2026 se ha reportado bajando a un rango de
+aproximadamente **60 a 150 días** tras esfuerzos de la embajada por reducir
+el atraso — pero es un número que cambia con frecuencia según la época del
+año y la capacidad del consulado. **No confíes en esta cifra ni en ninguna
+otra que leas en un artículo**: revisa el dato del día directamente en los
 [tiempos de espera que publica la Embajada de EE.UU. en Colombia](https://co.usembassy.gov/es/visas-es/tiempo-de-espera-para-una-cita-de-visa/)
-— uno de los más largos de la región, junto con México. Ha habido esfuerzos
-puntuales para reducirlo (la embajada abrió citas adicionales para quienes
-llevaban esperando más de un año), pero el tiempo real varía semana a
-semana — conviene revisar el dato actualizado en el enlace oficial antes de
-planear tu viaje.
+antes de planear tu viaje.
 
 **Cómo jugar el tiempo a tu favor:** agenda tu cita apenas tengas la
 tarifa MRV pagada, incluso si tu viaje es a futuro — puedes reprogramarla

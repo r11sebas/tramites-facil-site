@@ -6,9 +6,20 @@ date: 2026-07-10
 category: Visa Europa
 keywords: visa Schengen negocios, visa Schengen turismo, visa C Europa
 ---
-Tanto para turismo como para negocios de corto plazo, la visa Schengen que
-solicitas es técnicamente la misma categoría (**visa tipo C**, de corta
-estadía), pero el **propósito del viaje** que declaras determina qué
+**Importante primero**: si tu viaje —de turismo o de negocios— dura máximo
+90 días dentro de un período de 180, **no necesitas tramitar ninguna visa**.
+Colombia está exenta de visa Schengen para estadías cortas desde el 3 de
+diciembre de 2015, sin importar si el motivo es turismo o negocios (ver
+[cuándo sí necesitas visa](/articulos/documentos-visa-schengen-desde-colombia/)).
+Este artículo aplica solo si tu caso cae en la excepción: estadía de más
+de 90 días, o vas a ejercer una actividad remunerada — ahí sí necesitas una
+visa nacional de larga duración del país específico, y el propósito
+(negocios vs. otra razón) sigue siendo relevante para qué documentación
+presentar.
+
+Tanto para turismo como para negocios de corto plazo dentro de esa
+excepción, la visa que solicitas suele ser técnicamente la misma categoría
+base, pero el **propósito del viaje** que declaras determina qué
 documentación de soporte debes presentar — no son formularios distintos,
 pero sí expedientes distintos.
 

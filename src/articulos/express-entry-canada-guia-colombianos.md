@@ -42,15 +42,19 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 
 | Tipo de sorteo | Rango de corte en 2026 |
 |---|---|
-| General / Canadian Experience Class (CEC), sin nominación | **Low 500s** (510+ es un objetivo razonable) |
-| Sorteos en francés | Tan bajo como **393-420** — la vía más accesible si tienes nivel de francés |
+| General / Canadian Experience Class (CEC), sin nominación | **Low 500s** (510-525 aprox.) |
+| Sorteos en francés | Ha llegado a bajar de **380-390** en algunos sorteos de 2026 — la vía más accesible si tienes nivel de francés, aunque el rango completo del año es más amplio (~380-450) |
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
-| Con nominación provincial (PNP) | **700s** — la nominación suma 600 puntos por sí sola |
+| Con nominación provincial (PNP) | **730-800+** — la nominación suma 600 puntos por sí sola |
 
-Estos números se mueven sorteo a sorteo — IRCC publica los resultados de
-cada uno. Si tu puntaje está en el rango 450-500 sin nominación, una
-nominación provincial es probablemente tu vía más realista para llegar al
-rango competitivo (ver la sección de PNP más abajo).
+Estos números se mueven sorteo a sorteo y **cambian con frecuencia** — este
+artículo se actualiza periódicamente, pero para tu decisión real revisa
+siempre los
+[resultados de sorteos más recientes directamente en IRCC](https://www.canada.ca/en/immigration-refugees-citizenship/services/immigrate-canada/express-entry/submit-profile/rounds-invitations.html)
+antes de fiarte de una cifra que puede tener semanas de desactualización.
+Si tu puntaje está en el rango 450-500 sin nominación, una nominación
+provincial es probablemente tu vía más realista para llegar al rango
+competitivo (ver la sección de PNP más abajo).
 
 ## Cuánto tarda el proceso completo
 
@@ -92,7 +96,7 @@ cuál vía aplicar si tienes ambas opciones disponibles.
   decenas de puntos.
 - **Obtener una nominación provincial (PNP)**, que suma **600 puntos** —
   prácticamente garantiza una invitación en el siguiente sorteo, ya que
-  el corte para perfiles nominados está en el rango de los 700s.
+  el corte para perfiles nominados suele estar entre 730 y 800+.
 - **Conseguir una oferta de empleo válida** respaldada por un empleador
   canadiense.
 - **Sumar estudios o experiencia laboral en Canadá**, por ejemplo después
