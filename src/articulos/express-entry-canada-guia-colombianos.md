@@ -42,10 +42,10 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 
 | Tipo de sorteo | Rango de corte en 2026 |
 |---|---|
-| General / Canadian Experience Class (CEC), sin nominación | **Low 500s** (510-525 aprox.) |
+| General / Canadian Experience Class (CEC), sin nominación | **Low 500s** (507-518 aprox.) |
 | Sorteos en francés | Ha llegado a bajar de **380-390** en algunos sorteos de 2026 — la vía más accesible si tienes nivel de francés, aunque el rango completo del año es más amplio (~380-450) |
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
-| Con nominación provincial (PNP) | **730-800+** — la nominación suma 600 puntos por sí sola |
+| Con nominación provincial (PNP) | **708-770 aprox.** — la nominación suma 600 puntos por sí sola (llegó a bajar hasta 708 en julio de 2026, el mínimo del año) |
 
 Estos números se mueven sorteo a sorteo y **cambian con frecuencia** — este
 artículo se actualiza periódicamente, pero para tu decisión real revisa
@@ -96,7 +96,7 @@ cuál vía aplicar si tienes ambas opciones disponibles.
   decenas de puntos.
 - **Obtener una nominación provincial (PNP)**, que suma **600 puntos** —
   prácticamente garantiza una invitación en el siguiente sorteo, ya que
-  el corte para perfiles nominados suele estar entre 730 y 800+.
+  el corte para perfiles nominados suele estar entre 708 y 770 aprox.
 - **Conseguir una oferta de empleo válida** respaldada por un empleador
   canadiense.
 - **Sumar estudios o experiencia laboral en Canadá**, por ejemplo después
