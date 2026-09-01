@@ -73,10 +73,14 @@ propia.
 ## Quién necesita este certificado
 
 Para procesos de residencia/green card en EEUU, se exige a **toda persona
-mayor de 16 años** que haya vivido en un país 6 meses o más desde esa edad
-— no solo del país de residencia actual, sino de cada país donde cumpliste
-ese criterio. Si viviste en más de un país, es probable que necesites un
-certificado equivalente de cada uno, no solo el colombiano.
+mayor de 16 años** un certificado de su país de nacionalidad y/o de
+residencia actual si vivió allí 6 meses o más desde esa edad. Para
+**cualquier otro país** donde también hayas vivido siendo mayor de 16
+años, el umbral que aplica es distinto: se exige certificado si viviste
+allí **12 meses o más** (no 6). Si cumpliste alguno de estos criterios en
+más de un país, es probable que necesites un certificado equivalente de
+cada uno, no solo el colombiano — fuente: requisitos de documentos civiles
+del [Departamento de Estado de EEUU](https://travel.state.gov/content/travel/en/us-visas/immigrate/the-immigrant-visa-process/step-5-collect-financial-evidence-and-other-supporting-documents/step-7-collect-civil-documents.html).
 
 ## Cómo se tramita en Colombia
 
@@ -118,7 +122,8 @@ abogado de inmigración antes de aplicar.
   consulado (3-6 meses), aunque el documento en sí no tenga fecha de
   vencimiento propia.
 - **Asumir que un solo certificado colombiano cubre todo.** Si viviste en
-  otro país 6+ meses después de los 16 años, probablemente necesitas su
+  tu país de nacionalidad o residencia actual 6+ meses, o en cualquier otro
+  país 12+ meses, después de los 16 años, probablemente necesitas su
   certificado equivalente también.
 - **No verificar cuál de los tres certificados exige tu trámite
   específico** — pedir los tres cuando solo necesitas uno no es ilegal,
@@ -142,9 +147,9 @@ presentar uno vencido según el criterio del consulado.
 
 **¿Necesito el certificado si soy menor de 18 años?**
 Para procesos de visa de inmigrante en EEUU, se exige desde los 16 años si
-cumpliste el criterio de residencia de 6+ meses en el país correspondiente.
-Para visas de no inmigrante (turismo, por ejemplo), generalmente no se
-exige a menores.
+cumpliste el criterio de residencia (6+ meses en tu país de nacionalidad o
+residencia actual, 12+ meses en cualquier otro país). Para visas de no
+inmigrante (turismo, por ejemplo), generalmente no se exige a menores.
 
 ## Checklist antes de radicar
 
@@ -154,7 +159,8 @@ exige a menores.
       quien te lo pide (consulado, empleador) — usualmente 3-6 meses, no
       un plazo genérico, porque el documento en sí no tiene vencimiento
       propio.
-- [ ] Revisaste si viviste en otro país 6+ meses desde los 16 años, y si
-      necesitas su certificado equivalente.
+- [ ] Revisaste si viviste en tu país de nacionalidad/residencia 6+ meses,
+      o en cualquier otro país 12+ meses, desde los 16 años, y si necesitas
+      su certificado equivalente.
 - [ ] Confirmaste si necesitas apostilla y/o traducción antes de
       presentarlo.
