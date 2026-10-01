@@ -101,20 +101,24 @@ Readable Visa), obligatoria antes de poder agendar la entrevista:
 | H, L, O, P, Q, R (basadas en petición) | US$205 |
 | E (tratadista/inversionista) | US$315 |
 
-Este cronograma de tarifas entró en vigor en junio de 2023 y sigue vigente
-en 2026. El pago se hace en pesos colombianos al tipo de cambio del día, es
-**válido por 12 meses** desde la fecha de pago, y **no es reembolsable**
-aunque te nieguen la visa. Verifica siempre el monto exacto del día en el
-sitio oficial de la embajada, porque puede ajustarse.
+Este cronograma de tarifas entró en vigor el **30 de mayo de 2026** (antes
+de esa fecha la tarifa B1/B2 era de US$160, y las categorías basadas en
+petición pagaban US$190), como parte del primer aumento general a las
+tarifas de visa de no inmigrante en una década. El pago se hace en pesos
+colombianos al tipo de cambio del día, es **válido por 12 meses** desde la
+fecha de pago, y **no es reembolsable** aunque te nieguen la visa. Verifica
+siempre el monto exacto del día en el sitio oficial de la embajada, porque
+puede ajustarse.
 
 **Tarifa adicional a tener en cuenta:** desde una ley aprobada en julio de
 2025 existe una **"Visa Integrity Fee" de US$250**, que se cobra al
 momento de emitir la visa (no al pagar la MRV), y que aplica a casi todas
-las categorías de no inmigrante, incluyendo B1/B2. A mediados de 2026 no
-todos los consulados la estaban cobrando activamente todavía — confirma en
-[travel.state.gov](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html)
-si ya aplica en tu caso antes de asumir que el costo total es solo los
-US$185.
+las categorías de no inmigrante, incluyendo B1/B2. Esta tarifa rige para
+visas emitidas desde el 1 de octubre de 2025, y para Colombia ya está
+activa: el costo total real de una visa de turista aprobada es de
+**US$185 + US$250 = US$435**, no solo los US$185 de la MRV. Confirma el
+estado vigente en
+[travel.state.gov](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html).
 
 ## Cuánto tiempo toma el proceso completo
 
