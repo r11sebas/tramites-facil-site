@@ -42,10 +42,10 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 
 | Tipo de sorteo | Rango de corte en 2026 |
 |---|---|
-| General / Canadian Experience Class (CEC), sin nominación | **Low-mid 500s** (516-523 aprox. — subió hasta 523 el 18 de agosto de 2026, el corte más alto del año para esta categoría, tras reducirse el volumen de invitaciones a solo 1,000) |
+| General / Canadian Experience Class (CEC), sin nominación | **Low-mid 500s** (518-523 aprox. — llegó a 523 el 18 de agosto de 2026, el corte más alto del año para esta categoría, y bajó a 518 en el sorteo CEC del 29 de septiembre de 2026, el más reciente a la fecha) |
 | Sorteos en francés | Ha llegado a bajar hasta **382** en el sorteo del 19 de agosto de 2026 (el corte más bajo registrado en sorteos por categoría durante 2026) — la vía más accesible si tienes nivel de francés; los sorteos de las últimas semanas se han movido en un rango de aprox. **382-399** |
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
-| Con nominación provincial (PNP) | **697-768 aprox.** — la nominación suma 600 puntos por sí sola (bajó hasta 697 el 31 de agosto de 2026, el corte más bajo registrado en sorteos PNP durante 2026) |
+| Con nominación provincial (PNP) | **697-734 aprox.** — la nominación suma 600 puntos por sí sola (bajó hasta 697 el 31 de agosto de 2026, el corte más bajo registrado en sorteos PNP durante 2026; los sorteos más recientes fueron 734 el 14 de septiembre y 725 el 28 de septiembre de 2026) |
 
 Estos números se mueven sorteo a sorteo y **cambian con frecuencia** — este
 artículo se actualiza periódicamente, pero para tu decisión real revisa
@@ -96,7 +96,7 @@ cuál vía aplicar si tienes ambas opciones disponibles.
   decenas de puntos.
 - **Obtener una nominación provincial (PNP)**, que suma **600 puntos** —
   prácticamente garantiza una invitación en el siguiente sorteo, ya que
-  el corte para perfiles nominados suele estar entre 697 y 768 aprox.
+  el corte para perfiles nominados suele estar entre 697 y 734 aprox.
 - **Conseguir una oferta de empleo válida** respaldada por un empleador
   canadiense.
 - **Sumar estudios o experiencia laboral en Canadá**, por ejemplo después
