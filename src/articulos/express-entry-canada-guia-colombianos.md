@@ -43,7 +43,7 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 | Tipo de sorteo | Rango de corte en 2026 |
 |---|---|
 | General / Canadian Experience Class (CEC), sin nominación | **Low-mid 500s** (518-523 aprox. — llegó a 523 el 18 de agosto de 2026, el corte más alto del año para esta categoría; los sorteos CEC más recientes se han estabilizado cerca de 518-519 — 518 el 29 de septiembre de 2026 y 519 el 15 de octubre de 2026, el más reciente a la fecha) |
-| Sorteos en francés | Ha llegado a bajar hasta **382** en el sorteo del 19 de agosto de 2026 (el corte más bajo registrado en sorteos por categoría durante 2026) — la vía más accesible si tienes nivel de francés; los sorteos de las últimas semanas se han movido en un rango de aprox. **382-399** |
+| Sorteos en francés | Se ha movido entre **382 y 435** durante 2026 — bajó hasta 382 el 19 de agosto de 2026 (el corte más bajo del año) y subió a 435 el 16 de octubre de 2026 (el corte más alto del año y el sorteo más reciente a la fecha); sigue siendo más accesible que el sorteo general si tienes nivel de francés, aunque la brecha se ha reducido |
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
 | Con nominación provincial (PNP) | **725-772 aprox.** — la nominación suma 600 puntos por sí sola (734 el 14 de septiembre de 2026, bajó a 725 el 28 de septiembre, y subió a 772 el 13 de octubre de 2026 — el corte más alto registrado en sorteos PNP durante 2026 y el sorteo más reciente a la fecha) |
 
