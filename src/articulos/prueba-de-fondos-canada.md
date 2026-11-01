@@ -24,7 +24,7 @@ publica Statistics Canada, y se actualizan cada año:
 | Tamaño del grupo familiar | Monto mínimo (CAD) |
 |---|---|
 | 1 persona | **$15.263** |
-| 2 personas | **$19.007** |
+| 2 personas | **$19.001** |
 | 4 personas | **$28.362** |
 | Por cada persona adicional después de 7 | +$4.112 |
 

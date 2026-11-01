@@ -65,7 +65,7 @@ solicitud:
 | Trámite | Costo aproximado (2026) |
 |---|---|
 | Apostilla (por documento) | **~COP $37.800** |
-| Legalización (por documento, países no Hague) | ~COP $25.000 |
+| Legalización (por documento, países no Hague) | ~COP $26.200 |
 | Comisión adicional si pagas con tarjeta Visa/Mastercard | ~COP $2.380 |
 
 Estos valores se ajustan periódicamente — verifica el monto exacto del día
