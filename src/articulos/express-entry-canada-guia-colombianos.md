@@ -47,6 +47,18 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
 | Con nominación provincial (PNP) | **725-772 aprox.** — la nominación suma 600 puntos por sí sola (734 el 14 de septiembre de 2026, bajó a 725 el 28 de septiembre, subió a 772 el 13 de octubre — el corte más alto registrado en sorteos PNP durante 2026 — y bajó a 761 el 26 de octubre de 2026, el sorteo más reciente a la fecha) |
 
+> **Pausa de sorteos desde el 3 de noviembre de 2026:** IRCC suspendió
+> temporalmente todas las rondas de Express Entry mientras recalcula el
+> puntaje CRS de los perfiles activos del pool, tras introducir un nuevo
+> factor relacionado con experiencia laboral canadiense u ofertas de
+> empleo bien remuneradas (varias fuentes de inmigración lo ubican en
+> hasta 150 puntos adicionales). El último sorteo confirmado antes de la
+> pausa fue el **28 de octubre de 2026** (categoría transporte, corte de
+> 477). A la fecha de esta actualización, IRCC no ha anunciado cuándo se
+> reanudarán las rondas ni publicado la tabla de puntaje revisada, así
+> que los cortes de la tabla abajo siguen siendo los últimos reales, pero
+> podrían no aplicar tal cual cuando los sorteos se reactiven.
+
 Estos números se mueven sorteo a sorteo y **cambian con frecuencia** — este
 artículo se actualiza periódicamente, pero para tu decisión real revisa
 siempre los
