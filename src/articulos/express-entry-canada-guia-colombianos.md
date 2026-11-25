@@ -45,19 +45,23 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 | General / Canadian Experience Class (CEC), sin nominación | **Low-mid 500s** (518-523 aprox. — llegó a 523 el 18 de agosto de 2026, el corte más alto del año para esta categoría; los sorteos CEC más recientes se han estabilizado cerca de 518-519 — 518 el 29 de septiembre de 2026 y 519 el 15 de octubre de 2026, el más reciente a la fecha) |
 | Sorteos en francés | Se ha movido entre **382 y 435** durante 2026 — bajó hasta 382 el 19 de agosto de 2026 (el corte más bajo del año) y subió a 435 el 16 de octubre de 2026 (el corte más alto del año), pero volvió a bajar a 407 el 27 de octubre de 2026, el sorteo más reciente a la fecha; sigue siendo más accesible que el sorteo general si tienes nivel de francés, aunque la brecha se ha reducido |
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
-| Con nominación provincial (PNP) | **725-772 aprox.** — la nominación suma 600 puntos por sí sola (734 el 14 de septiembre de 2026, bajó a 725 el 28 de septiembre, subió a 772 el 13 de octubre — el corte más alto registrado en sorteos PNP durante 2026 — y bajó a 761 el 26 de octubre de 2026, el sorteo más reciente a la fecha) |
+| Con nominación provincial (PNP) | **673-772 aprox.** — la nominación suma 600 puntos por sí sola (subió a 772 el 13 de octubre de 2026, el corte más alto del año, y bajó a 761 el 26 de octubre; tras la pausa de sorteos de principios de noviembre, el primer sorteo PNP tras la reanudación —23 de noviembre de 2026, el más grande del año con 1.999 invitaciones— bajó al corte más bajo de 2026: 673) |
 
-> **Pausa de sorteos desde el 3 de noviembre de 2026:** IRCC suspendió
-> temporalmente todas las rondas de Express Entry mientras recalcula el
-> puntaje CRS de los perfiles activos del pool, tras introducir un nuevo
-> factor relacionado con experiencia laboral canadiense u ofertas de
-> empleo bien remuneradas (varias fuentes de inmigración lo ubican en
-> hasta 150 puntos adicionales). El último sorteo confirmado antes de la
-> pausa fue el **28 de octubre de 2026** (categoría transporte, corte de
-> 477). A la fecha de esta actualización, IRCC no ha anunciado cuándo se
-> reanudarán las rondas ni publicado la tabla de puntaje revisada, así
-> que los cortes de la tabla abajo siguen siendo los últimos reales, pero
-> podrían no aplicar tal cual cuando los sorteos se reactiven.
+> **Sorteos reanudados el 23 de noviembre de 2026 tras la pausa por el
+> cambio de CRS:** IRCC suspendió todas las rondas de Express Entry desde
+> el 3 de noviembre de 2026 mientras recalculaba el puntaje CRS de los
+> perfiles activos del pool, tras introducir un nuevo factor relacionado
+> con experiencia laboral canadiense u ofertas de empleo bien remuneradas
+> (varias fuentes de inmigración lo ubican en hasta 150 puntos
+> adicionales). El primer sorteo tras la reanudación fue de **nominados
+> provinciales (PNP)** el 23 de noviembre de 2026, con el corte más bajo
+> del año para esta categoría (673) y el mayor número de invitaciones PNP
+> de 2026 (1.999) — probablemente reflejo del recálculo general de
+> puntajes. A la fecha de esta actualización, IRCC todavía no ha hecho un
+> nuevo sorteo general/CEC ni de francés bajo las reglas revisadas, así
+> que los cortes de esas dos categorías en la tabla siguen siendo los
+> últimos reales antes de la pausa, pero podrían cambiar en los próximos
+> sorteos.
 
 Estos números se mueven sorteo a sorteo y **cambian con frecuencia** — este
 artículo se actualiza periódicamente, pero para tu decisión real revisa
@@ -108,7 +112,9 @@ cuál vía aplicar si tienes ambas opciones disponibles.
   decenas de puntos.
 - **Obtener una nominación provincial (PNP)**, que suma **600 puntos** —
   prácticamente garantiza una invitación en el siguiente sorteo, ya que
-  el corte para perfiles nominados suele estar entre 725 y 772 aprox.
+  el corte para perfiles nominados ha variado entre 673 y 772 aprox. en
+  2026 (bajó a 673 en el primer sorteo tras la pausa de noviembre de
+  2026).
 - **Conseguir una oferta de empleo válida** respaldada por un empleador
   canadiense.
 - **Sumar estudios o experiencia laboral en Canadá**, por ejemplo después
