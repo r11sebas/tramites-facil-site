@@ -43,7 +43,7 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 | Tipo de sorteo | Rango de corte en 2026 |
 |---|---|
 | General / Canadian Experience Class (CEC), sin nominación | **Low-mid 500s** (518-523 aprox. — llegó a 523 el 18 de agosto de 2026, el corte más alto del año para esta categoría; los sorteos CEC más recientes se han estabilizado cerca de 518-519 — 518 el 29 de septiembre de 2026 y 519 el 15 de octubre de 2026, el más reciente a la fecha) |
-| Sorteos en francés | Se ha movido entre **382 y 435** durante 2026 — bajó hasta 382 el 19 de agosto de 2026 (el corte más bajo del año) y subió a 435 el 16 de octubre de 2026 (el corte más alto del año), pero volvió a bajar a 407 el 27 de octubre de 2026, el sorteo más reciente a la fecha; sigue siendo más accesible que el sorteo general si tienes nivel de francés, aunque la brecha se ha reducido |
+| Sorteos en francés | Se ha movido entre **382 y 435** durante 2026 — bajó hasta 382 el 19 de agosto de 2026 (el corte más bajo del año) y subió a 435 el 16 de octubre de 2026 (el corte más alto del año); tras la pausa de inicios de noviembre, el primer sorteo de francés reanudado fue el 25 de noviembre de 2026, con 6.000 invitaciones a un corte de 401, el sorteo más reciente a la fecha; sigue siendo más accesible que el sorteo general si tienes nivel de francés, aunque la brecha se ha reducido |
 | Categorías específicas (salud, oficios, etc.) | Varía, generalmente más bajo que el sorteo general |
 | Con nominación provincial (PNP) | **673-772 aprox.** — la nominación suma 600 puntos por sí sola (subió a 772 el 13 de octubre de 2026, el corte más alto del año, y bajó a 761 el 26 de octubre; tras la pausa de sorteos de principios de noviembre, el primer sorteo PNP tras la reanudación —23 de noviembre de 2026, el más grande del año con 1.999 invitaciones— bajó al corte más bajo de 2026: 673) |
 
@@ -57,11 +57,12 @@ concretas. El puntaje de corte varía según el tipo de sorteo:
 > provinciales (PNP)** el 23 de noviembre de 2026, con el corte más bajo
 > del año para esta categoría (673) y el mayor número de invitaciones PNP
 > de 2026 (1.999) — probablemente reflejo del recálculo general de
-> puntajes. A la fecha de esta actualización, IRCC todavía no ha hecho un
-> nuevo sorteo general/CEC ni de francés bajo las reglas revisadas, así
-> que los cortes de esas dos categorías en la tabla siguen siendo los
-> últimos reales antes de la pausa, pero podrían cambiar en los próximos
-> sorteos.
+> puntajes. Dos días después, el 25 de noviembre de 2026, IRCC hizo un
+> sorteo de **francés** con 6.000 invitaciones a un corte de 401. A la
+> fecha de esta actualización, IRCC todavía no ha hecho un nuevo sorteo
+> general/CEC bajo las reglas revisadas, así que el corte de esa
+> categoría en la tabla sigue siendo el último real antes de la pausa,
+> pero podría cambiar en los próximos sorteos.
 
 Estos números se mueven sorteo a sorteo y **cambian con frecuencia** — este
 artículo se actualiza periódicamente, pero para tu decisión real revisa
